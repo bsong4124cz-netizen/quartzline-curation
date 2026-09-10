@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-10T09:08:41Z",
+  "updated": "2026-09-10T09:13:12Z",
   "articles": [
     {
       "id": "safety-seed-phrase-theft",
@@ -11,7 +11,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-seed-phrase-theft",
-      "publishedAt": "2026-09-07T09:40:26Z"
+      "publishedAt": "2026-09-07T09:44:57Z"
     },
     {
       "id": "2026-09-10-majors",
@@ -22,18 +22,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-majors",
-      "publishedAt": "2026-09-10T06:35:48Z"
-    },
-    {
-      "id": "2026-09-10-movers",
-      "title": "Top Movers — 2026-09-10",
-      "date": "2026-09-10",
-      "angle": "movers",
-      "summary": "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
-      "hasNav": false,
-      "isHot": true,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers",
-      "publishedAt": "2026-09-10T03:57:12Z"
+      "publishedAt": "2026-09-10T06:40:19Z"
     },
     {
       "id": "2026-09-10-recap",
@@ -44,7 +33,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-recap",
-      "publishedAt": "2026-09-10T03:24:36Z"
+      "publishedAt": "2026-09-10T03:29:07Z"
     },
     {
       "id": "2026-09-10-memecoin-crash",
@@ -55,7 +44,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-memecoin-crash",
-      "publishedAt": "2026-09-09T21:24:53Z"
+      "publishedAt": "2026-09-09T21:29:24Z"
     },
     {
       "id": "2026-09-10-quantum-clock",
@@ -66,7 +55,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-quantum-clock",
-      "publishedAt": "2026-09-09T15:29:07Z"
+      "publishedAt": "2026-09-09T15:33:38Z"
     },
     {
       "id": "2026-09-10-consensys-metamask",
@@ -77,7 +66,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-consensys-metamask",
-      "publishedAt": "2026-09-09T10:28:10Z"
+      "publishedAt": "2026-09-09T10:32:41Z"
     },
     {
       "id": "learn-recovery-phrase",
@@ -88,7 +77,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-recovery-phrase",
-      "publishedAt": "2026-09-09T07:06:46Z"
+      "publishedAt": "2026-09-09T07:11:17Z"
     },
     {
       "id": "safety-pig-butchering",
@@ -99,7 +88,18 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-pig-butchering",
-      "publishedAt": "2026-09-09T02:18:09Z"
+      "publishedAt": "2026-09-09T02:22:40Z"
+    },
+    {
+      "id": "2026-09-10-movers",
+      "title": "Top Movers — 2026-09-10",
+      "date": "2026-09-10",
+      "angle": "movers",
+      "summary": "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
+      "hasNav": false,
+      "isHot": true,
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers",
+      "publishedAt": "2026-09-09T02:12:57Z"
     },
     {
       "id": "learn-price-differences",
@@ -110,7 +110,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-price-differences",
-      "publishedAt": "2026-09-09T01:58:43Z"
+      "publishedAt": "2026-09-09T02:03:14Z"
     },
     {
       "id": "2026-09-10-security-hw-wallets",
@@ -121,7 +121,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-security-hw-wallets",
-      "publishedAt": "2026-09-09T00:49:03Z"
+      "publishedAt": "2026-09-09T00:53:34Z"
     },
     {
       "id": "2026-09-10-sanctions-scam-market",
@@ -132,7 +132,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-sanctions-scam-market",
-      "publishedAt": "2026-09-08T23:49:43Z"
+      "publishedAt": "2026-09-08T23:54:14Z"
     },
     {
       "id": "safety-fake-airdrops",
@@ -143,7 +143,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-airdrops",
-      "publishedAt": "2026-09-08T23:32:34Z"
+      "publishedAt": "2026-09-08T23:37:05Z"
     },
     {
       "id": "safety-fake-support",
@@ -154,7 +154,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-support",
-      "publishedAt": "2026-09-08T23:04:02Z"
+      "publishedAt": "2026-09-08T23:08:33Z"
     },
     {
       "id": "learn-market-cap",
@@ -165,7 +165,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-market-cap",
-      "publishedAt": "2026-09-08T18:06:19Z"
+      "publishedAt": "2026-09-08T18:10:50Z"
     },
     {
       "id": "learn-transaction-hash",
@@ -176,7 +176,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-transaction-hash",
-      "publishedAt": "2026-09-08T16:14:49Z"
+      "publishedAt": "2026-09-08T16:19:20Z"
     },
     {
       "id": "learn-blockchain",
@@ -187,7 +187,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-blockchain",
-      "publishedAt": "2026-09-08T16:07:31Z"
+      "publishedAt": "2026-09-08T16:12:02Z"
     },
     {
       "id": "learn-hot-cold-wallets",
@@ -198,7 +198,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-hot-cold-wallets",
-      "publishedAt": "2026-09-08T10:53:00Z"
+      "publishedAt": "2026-09-08T10:57:31Z"
     },
     {
       "id": "learn-fear-greed",
@@ -209,7 +209,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-fear-greed",
-      "publishedAt": "2026-09-08T08:28:17Z"
+      "publishedAt": "2026-09-08T08:32:48Z"
     },
     {
       "id": "learn-stablecoin-depeg",
@@ -220,7 +220,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoin-depeg",
-      "publishedAt": "2026-09-08T05:34:22Z"
+      "publishedAt": "2026-09-08T05:38:53Z"
     },
     {
       "id": "learn-gas-fees",
@@ -231,7 +231,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-gas-fees",
-      "publishedAt": "2026-09-08T01:49:54Z"
+      "publishedAt": "2026-09-08T01:54:25Z"
     },
     {
       "id": "learn-liquidity",
@@ -242,7 +242,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-liquidity",
-      "publishedAt": "2026-09-08T01:32:48Z"
+      "publishedAt": "2026-09-08T01:37:19Z"
     },
     {
       "id": "safety-recovery-scams",
@@ -253,7 +253,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-recovery-scams",
-      "publishedAt": "2026-09-07T21:12:56Z"
+      "publishedAt": "2026-09-07T21:17:27Z"
     },
     {
       "id": "learn-ath",
@@ -264,7 +264,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-ath",
-      "publishedAt": "2026-09-07T20:57:52Z"
+      "publishedAt": "2026-09-07T21:02:23Z"
     },
     {
       "id": "learn-fdv",
@@ -275,7 +275,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-fdv",
-      "publishedAt": "2026-09-07T18:38:04Z"
+      "publishedAt": "2026-09-07T18:42:35Z"
     },
     {
       "id": "learn-coin-vs-token",
@@ -286,7 +286,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-coin-vs-token",
-      "publishedAt": "2026-09-07T14:52:23Z"
+      "publishedAt": "2026-09-07T14:56:54Z"
     },
     {
       "id": "learn-tvl",
@@ -297,7 +297,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-tvl",
-      "publishedAt": "2026-09-07T11:01:37Z"
+      "publishedAt": "2026-09-07T11:06:08Z"
     },
     {
       "id": "learn-nft",
@@ -308,7 +308,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-nft",
-      "publishedAt": "2026-09-07T08:09:22Z"
+      "publishedAt": "2026-09-07T08:13:53Z"
     },
     {
       "id": "learn-altcoins",
@@ -319,7 +319,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-altcoins",
-      "publishedAt": "2026-09-07T01:40:09Z"
+      "publishedAt": "2026-09-07T01:44:40Z"
     },
     {
       "id": "learn-layer-2",
@@ -330,7 +330,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-layer-2",
-      "publishedAt": "2026-09-06T23:49:24Z"
+      "publishedAt": "2026-09-06T23:53:55Z"
     },
     {
       "id": "safety-verify-checklist",
@@ -341,7 +341,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-verify-checklist",
-      "publishedAt": "2026-09-06T21:09:40Z"
+      "publishedAt": "2026-09-06T21:14:11Z"
     },
     {
       "id": "learn-charts",
@@ -352,7 +352,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-charts",
-      "publishedAt": "2026-09-06T18:23:35Z"
+      "publishedAt": "2026-09-06T18:28:06Z"
     },
     {
       "id": "learn-block-explorer",
@@ -363,7 +363,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-block-explorer",
-      "publishedAt": "2026-09-06T13:04:46Z"
+      "publishedAt": "2026-09-06T13:09:17Z"
     },
     {
       "id": "learn-halving",
@@ -374,7 +374,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-halving",
-      "publishedAt": "2026-09-06T13:01:59Z"
+      "publishedAt": "2026-09-06T13:06:30Z"
     },
     {
       "id": "safety-job-task-scams",
@@ -385,7 +385,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-job-task-scams",
-      "publishedAt": "2026-09-06T13:01:12Z"
+      "publishedAt": "2026-09-06T13:05:43Z"
     },
     {
       "id": "learn-defi",
@@ -396,7 +396,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-defi",
-      "publishedAt": "2026-09-06T12:58:36Z"
+      "publishedAt": "2026-09-06T13:03:07Z"
     },
     {
       "id": "safety-too-good-returns",
@@ -407,7 +407,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-too-good-returns",
-      "publishedAt": "2026-09-06T09:15:04Z"
+      "publishedAt": "2026-09-06T09:19:35Z"
     },
     {
       "id": "learn-whitepaper",
@@ -418,7 +418,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-whitepaper",
-      "publishedAt": "2026-09-06T08:48:16Z"
+      "publishedAt": "2026-09-06T08:52:47Z"
     },
     {
       "id": "safety-giveaway-scams",
@@ -429,7 +429,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-giveaway-scams",
-      "publishedAt": "2026-09-06T03:55:03Z"
+      "publishedAt": "2026-09-06T03:59:34Z"
     },
     {
       "id": "safety-clipboard-malware",
@@ -440,7 +440,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-clipboard-malware",
-      "publishedAt": "2026-09-06T02:16:06Z"
+      "publishedAt": "2026-09-06T02:20:37Z"
     },
     {
       "id": "safety-sim-swap",
@@ -451,7 +451,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-sim-swap",
-      "publishedAt": "2026-09-06T01:11:27Z"
+      "publishedAt": "2026-09-06T01:15:58Z"
     },
     {
       "id": "learn-pow-pos",
@@ -462,7 +462,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-pow-pos",
-      "publishedAt": "2026-09-06T00:21:07Z"
+      "publishedAt": "2026-09-06T00:25:38Z"
     },
     {
       "id": "safety-fake-apps",
@@ -473,7 +473,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-apps",
-      "publishedAt": "2026-09-05T20:39:38Z"
+      "publishedAt": "2026-09-05T20:44:09Z"
     },
     {
       "id": "learn-smart-contract",
@@ -484,7 +484,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-smart-contract",
-      "publishedAt": "2026-09-05T17:42:18Z"
+      "publishedAt": "2026-09-05T17:46:49Z"
     },
     {
       "id": "learn-bull-bear",
@@ -495,7 +495,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-bull-bear",
-      "publishedAt": "2026-09-05T17:07:22Z"
+      "publishedAt": "2026-09-05T17:11:53Z"
     },
     {
       "id": "safety-rug-pulls",
@@ -506,7 +506,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-rug-pulls",
-      "publishedAt": "2026-09-05T05:42:38Z"
+      "publishedAt": "2026-09-05T05:47:09Z"
     },
     {
       "id": "learn-staking",
@@ -517,7 +517,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-staking",
-      "publishedAt": "2026-09-05T02:41:43Z"
+      "publishedAt": "2026-09-05T02:46:14Z"
     },
     {
       "id": "learn-keys-and-addresses",
@@ -528,7 +528,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-keys-and-addresses",
-      "publishedAt": "2026-09-04T18:48:35Z"
+      "publishedAt": "2026-09-04T18:53:06Z"
     },
     {
       "id": "learn-volatility",
@@ -539,7 +539,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-volatility",
-      "publishedAt": "2026-09-04T18:15:18Z"
+      "publishedAt": "2026-09-04T18:19:49Z"
     },
     {
       "id": "learn-volume",
@@ -550,7 +550,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-volume",
-      "publishedAt": "2026-09-04T18:14:17Z"
+      "publishedAt": "2026-09-04T18:18:48Z"
     },
     {
       "id": "learn-btc-dominance",
@@ -561,7 +561,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-btc-dominance",
-      "publishedAt": "2026-09-04T15:55:16Z"
+      "publishedAt": "2026-09-04T15:59:47Z"
     },
     {
       "id": "learn-supply-types",
@@ -572,7 +572,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-supply-types",
-      "publishedAt": "2026-09-04T13:21:48Z"
+      "publishedAt": "2026-09-04T13:26:19Z"
     },
     {
       "id": "learn-bridges",
@@ -583,7 +583,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-bridges",
-      "publishedAt": "2026-09-04T12:22:37Z"
+      "publishedAt": "2026-09-04T12:27:08Z"
     },
     {
       "id": "safety-pump-and-dump",
@@ -594,7 +594,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-pump-and-dump",
-      "publishedAt": "2026-09-04T08:10:11Z"
+      "publishedAt": "2026-09-04T08:14:42Z"
     },
     {
       "id": "learn-stablecoins",
@@ -605,7 +605,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoins",
-      "publishedAt": "2026-09-04T06:00:13Z"
+      "publishedAt": "2026-09-04T06:04:44Z"
     },
     {
       "id": "learn-sparkline",
@@ -616,7 +616,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-sparkline",
-      "publishedAt": "2026-09-03T19:35:07Z"
+      "publishedAt": "2026-09-03T19:39:38Z"
     },
     {
       "id": "safety-address-poisoning",
@@ -627,7 +627,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning",
-      "publishedAt": "2026-09-03T18:43:25Z"
+      "publishedAt": "2026-09-03T18:47:56Z"
     },
     {
       "id": "safety-phishing-links",
@@ -638,7 +638,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-phishing-links",
-      "publishedAt": "2026-09-03T17:57:09Z"
+      "publishedAt": "2026-09-03T18:01:40Z"
     },
     {
       "id": "learn-custody",
@@ -649,7 +649,7 @@
       "hasNav": true,
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-custody",
-      "publishedAt": "2026-09-03T14:10:16Z"
+      "publishedAt": "2026-09-03T14:14:47Z"
     }
   ]
 }
