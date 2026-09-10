@@ -1,0 +1,17 @@
+{
+  "id": "learn-pow-pos",
+  "title": "Proof of Work vs Proof of Stake",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Both are ways a decentralised network agrees on which transactions are valid. Proof of Work has computers compete to solve hard puzzles, spending energy to earn the right to add a block — the model Bitcoin uses.",
+  "blocks": [
+    "Both are ways a decentralised network agrees on which transactions are valid. Proof of Work has computers compete to solve hard puzzles, spending energy to earn the right to add a block — the model Bitcoin uses.",
+    "Proof of Stake instead has participants lock up coins as collateral and be chosen to add blocks, with misbehaviour penalised by losing that stake. Ethereum moved to this model.",
+    "The trade-offs are debated endlessly, mostly around energy use, security and decentralisation. For a general reader, the main point is that they are two different answers to the same problem."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-pow-pos"
+}

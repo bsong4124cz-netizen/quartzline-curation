@@ -1,0 +1,17 @@
+{
+  "id": "learn-hot-cold-wallets",
+  "title": "Hot Wallets vs Cold Wallets",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A hot wallet is connected to the internet — an app or browser extension — making it convenient for frequent use but more exposed to online threats.",
+  "blocks": [
+    "A hot wallet is connected to the internet — an app or browser extension — making it convenient for frequent use but more exposed to online threats.",
+    "A cold wallet is kept offline, often on a dedicated hardware device, which makes it much harder to reach remotely at the cost of some convenience.",
+    "Many people use both: a small amount in a hot wallet for everyday use and the bulk in cold storage. The right mix depends on how much convenience and risk you are willing to trade."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-hot-cold-wallets"
+}

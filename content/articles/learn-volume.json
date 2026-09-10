@@ -1,0 +1,17 @@
+{
+  "id": "learn-volume",
+  "title": "What 24-Hour Trading Volume Tells You",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Twenty-four-hour volume is the total value of an asset traded across markets in the past day. It is a measure of activity and interest, not of price direction.",
+  "blocks": [
+    "Twenty-four-hour volume is the total value of an asset traded across markets in the past day. It is a measure of activity and interest, not of price direction.",
+    "High volume means it is easier to enter or exit a position near the quoted price. Very low volume can mean a quoted price is fragile — a single large trade can move it sharply.",
+    "Volume is most useful read alongside price: a big move on heavy volume reflects broad participation, while a big move on thin volume can be the work of very few trades."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-volume"
+}

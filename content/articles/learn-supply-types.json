@@ -1,0 +1,17 @@
+{
+  "id": "learn-supply-types",
+  "title": "Circulating, Total and Max Supply — the Difference",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Circulating supply is the number of coins available and in public hands right now. Total supply includes coins that exist but are locked, reserved or not yet released. Max supply is the hard ceiling a protocol will ever create, where one exists.",
+  "blocks": [
+    "Circulating supply is the number of coins available and in public hands right now. Total supply includes coins that exist but are locked, reserved or not yet released. Max supply is the hard ceiling a protocol will ever create, where one exists.",
+    "The gap between circulating and total supply matters: if many coins are still due to unlock, future supply can grow even if nothing else changes.",
+    "Market cap uses circulating supply. A separate figure, fully diluted valuation, uses the larger supply — which is why the two can look very different for the same coin."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-supply-types"
+}

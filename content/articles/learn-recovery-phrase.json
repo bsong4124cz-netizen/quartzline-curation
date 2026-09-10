@@ -1,0 +1,17 @@
+{
+  "id": "learn-recovery-phrase",
+  "title": "Your Recovery Phrase Is the Wallet",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A recovery phrase — also called a seed phrase — is a list of words that can regenerate a crypto wallet and everything in it. Whoever holds the phrase controls the funds.",
+  "blocks": [
+    "A recovery phrase — also called a seed phrase — is a list of words that can regenerate a crypto wallet and everything in it. Whoever holds the phrase controls the funds.",
+    "That is why no legitimate service ever needs it. Support staff, apps and websites do not require your phrase, and any request for it is a scam.",
+    "Store it offline, never type it into a website or message, and never photograph it into cloud storage. Losing it can mean losing access; leaking it can mean losing the funds."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-recovery-phrase"
+}

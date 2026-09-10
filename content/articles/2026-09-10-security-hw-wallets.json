@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-10-security-hw-wallets",
+  "title": "Security Note: Fake Hardware-Wallet Alerts Are Circulating",
+  "date": "2026-09-10",
+  "angle": "security",
+  "summary": "Two hardware-wallet makers, Trezor and BitBox, have warned users about fake “security alert” messages that impersonate the companies and try to rush people into urgent action. The warnings were reported on 9–10 September 2026.",
+  "blocks": [
+    "Two hardware-wallet makers, Trezor and BitBox, have warned users about fake “security alert” messages that impersonate the companies and try to rush people into urgent action. The warnings were reported on 9–10 September 2026.",
+    "The scam messages typically claim a newly discovered flaw could expose funds, then push the reader to “verify” or “re-secure” the wallet — steps that, in the fraudulent versions, end with the victim revealing their recovery phrase.",
+    "One rule defeats this entire class of attack: no legitimate wallet maker will ever ask for your recovery phrase. The phrase is the wallet itself — anyone who has it can move the funds. Enter it only into the device, never into a link, email, message, pop-up or website.",
+    "The wider habit worth repeating: treat any unsolicited “urgent” security message as suspect, inspect domains and addresses carefully, and reach a vendor through its official site directly rather than a link you were sent."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Event reported by Decrypt and Cointelegraph, 9–10 Sep 2026. Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-security-hw-wallets"
+}

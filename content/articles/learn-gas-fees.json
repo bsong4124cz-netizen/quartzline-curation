@@ -1,0 +1,17 @@
+{
+  "id": "learn-gas-fees",
+  "title": "What “Gas” and Network Fees Are",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Most blockchains charge a fee to process a transaction. On Ethereum and similar networks this is called “gas”, and it pays the network for the computation and space a transaction uses.",
+  "blocks": [
+    "Most blockchains charge a fee to process a transaction. On Ethereum and similar networks this is called “gas”, and it pays the network for the computation and space a transaction uses.",
+    "Fees rise when a network is busy and fall when it is quiet, because users effectively bid for limited space in each block.",
+    "Fees are separate from the amount you send and vary by network — some chains are designed to keep them very low, others can spike during heavy demand."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-gas-fees"
+}

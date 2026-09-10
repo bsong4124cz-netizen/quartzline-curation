@@ -1,0 +1,17 @@
+{
+  "id": "learn-sparkline",
+  "title": "What a Sparkline Shows",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A sparkline is the tiny chart you see next to a coin in a list. It has no axes or numbers — it is there to show the shape of recent movement at a glance.",
+  "blocks": [
+    "A sparkline is the tiny chart you see next to a coin in a list. It has no axes or numbers — it is there to show the shape of recent movement at a glance.",
+    "It is meant for quick scanning: is this coin drifting up, sliding down, or chopping sideways over the window shown.",
+    "For exact figures you still look at the price and percentage change; the sparkline just gives instant visual context."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-sparkline"
+}

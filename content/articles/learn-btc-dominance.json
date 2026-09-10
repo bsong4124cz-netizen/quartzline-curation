@@ -1,0 +1,17 @@
+{
+  "id": "learn-btc-dominance",
+  "title": "Bitcoin Dominance, Explained",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Bitcoin dominance is Bitcoin's share of the entire crypto market's capitalisation. If the whole market is worth $2.5T and Bitcoin is $1.4T, dominance is about 56%.",
+  "blocks": [
+    "Bitcoin dominance is Bitcoin's share of the entire crypto market's capitalisation. If the whole market is worth $2.5T and Bitcoin is $1.4T, dominance is about 56%.",
+    "Watchers use it as a rough sentiment gauge. Rising dominance often means money is concentrating in Bitcoin; falling dominance can indicate more interest flowing into other coins.",
+    "It is a ratio, so it can change because Bitcoin moved, because other coins moved, or both. Read it as context, not a signal on its own."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-btc-dominance"
+}

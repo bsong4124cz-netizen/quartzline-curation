@@ -1,0 +1,17 @@
+{
+  "id": "learn-charts",
+  "title": "Candlestick vs Line Charts",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A line chart connects closing prices into a single line — clean and good for seeing the overall trend at a glance.",
+  "blocks": [
+    "A line chart connects closing prices into a single line — clean and good for seeing the overall trend at a glance.",
+    "A candlestick chart shows more per period: each “candle” marks the open, close, high and low, so you can see the range and whether the period finished up or down.",
+    "Neither is “better”. Lines are easier to scan; candles carry more detail. Pick whichever answers the question you are asking."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-charts"
+}

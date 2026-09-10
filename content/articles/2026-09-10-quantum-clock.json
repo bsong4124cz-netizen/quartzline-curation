@@ -1,0 +1,17 @@
+{
+  "id": "2026-09-10-quantum-clock",
+  "title": "Why Quantum Computing Keeps Coming Up in Bitcoin and Ethereum Debates",
+  "date": "2026-09-10",
+  "angle": "explainer",
+  "summary": "New quantum-computing hardware announcements have again put a long-running question back in front of crypto communities: could a future quantum computer break the cryptography that secures Bitcoin and Ethereum? The topic resurfaced around 9 September 2026 alongside fresh hardware news.",
+  "blocks": [
+    "New quantum-computing hardware announcements have again put a long-running question back in front of crypto communities: could a future quantum computer break the cryptography that secures Bitcoin and Ethereum? The topic resurfaced around 9 September 2026 alongside fresh hardware news.",
+    "The concern is real but not immediate. Today's quantum machines are far from the scale needed to threaten the elliptic-curve signatures these networks use, and researchers have years of warning as the technology's progress is public and measurable.",
+    "The realistic path is migration, not surprise: post-quantum signature schemes already exist, and networks can adopt them through upgrades well before any practical threat arrives. It is a topic worth understanding, not a reason for alarm."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Theme drawn from Decrypt and CoinDesk coverage, 9 Sep 2026. Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-quantum-clock"
+}

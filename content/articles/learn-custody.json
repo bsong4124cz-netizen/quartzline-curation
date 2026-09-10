@@ -1,0 +1,17 @@
+{
+  "id": "learn-custody",
+  "title": "Custodial vs Non-Custodial Wallets",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "In a custodial wallet, a company holds the keys on your behalf — much like a bank. In a non-custodial (self-custody) wallet, you hold the keys yourself.",
+  "blocks": [
+    "In a custodial wallet, a company holds the keys on your behalf — much like a bank. In a non-custodial (self-custody) wallet, you hold the keys yourself.",
+    "Custody is convenient and lets someone help you recover access, but it means trusting that company. Self-custody removes that dependency but puts full responsibility on you.",
+    "The old phrase “not your keys, not your coins” captures the trade-off: control and responsibility come together."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-custody"
+}

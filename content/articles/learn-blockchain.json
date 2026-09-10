@@ -1,0 +1,17 @@
+{
+  "id": "learn-blockchain",
+  "title": "What a Blockchain Actually Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A blockchain is a shared ledger copied across many computers, where new entries are grouped into blocks and linked in order. Once recorded and confirmed, entries are extremely hard to alter.",
+  "blocks": [
+    "A blockchain is a shared ledger copied across many computers, where new entries are grouped into blocks and linked in order. Once recorded and confirmed, entries are extremely hard to alter.",
+    "Because every participant holds a copy and agrees on the same history, no single party has to be trusted to keep the records — the network agrees on them together.",
+    "That design is what makes crypto balances public and verifiable, and it is why transactions, once settled, are effectively permanent."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-blockchain"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "learn-price-differences",
+  "title": "Why the Same Coin Shows Different Prices",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Crypto trades on many venues at once, each with its own buyers and sellers, so the exact price can differ slightly from place to place at any instant.",
+  "blocks": [
+    "Crypto trades on many venues at once, each with its own buyers and sellers, so the exact price can differ slightly from place to place at any instant.",
+    "Data providers also aggregate and average these venues differently, and updates arrive at slightly different times — so two apps can show marginally different numbers.",
+    "For major coins the differences are usually small. Larger gaps tend to appear in thinly traded coins where each venue is more isolated."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-price-differences"
+}

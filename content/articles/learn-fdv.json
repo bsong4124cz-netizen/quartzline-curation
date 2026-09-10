@@ -1,0 +1,17 @@
+{
+  "id": "learn-fdv",
+  "title": "What Fully Diluted Valuation (FDV) Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Fully diluted valuation estimates what a coin's market cap would be if every coin that will ever exist were already in circulation — price multiplied by the maximum or total supply.",
+  "blocks": [
+    "Fully diluted valuation estimates what a coin's market cap would be if every coin that will ever exist were already in circulation — price multiplied by the maximum or total supply.",
+    "It matters when a large share of supply has not yet been released: a coin can look small by market cap but much larger by FDV, hinting at future supply pressure.",
+    "Comparing market cap and FDV side by side is a quick way to see how much a project's valuation depends on coins that are not yet on the market."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-fdv"
+}

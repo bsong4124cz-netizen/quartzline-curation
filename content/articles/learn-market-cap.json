@@ -1,0 +1,17 @@
+{
+  "id": "learn-market-cap",
+  "title": "What “Market Cap” Means for a Crypto",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A crypto's market capitalisation is its current price multiplied by the number of coins in circulation. It is a rough measure of the asset's total size, and it is why a low per-coin price does not by itself mean a coin is “cheap”.",
+  "blocks": [
+    "A crypto's market capitalisation is its current price multiplied by the number of coins in circulation. It is a rough measure of the asset's total size, and it is why a low per-coin price does not by itself mean a coin is “cheap”.",
+    "Market cap is what ranking lists usually sort by, because comparing prices alone is misleading: a coin at $0.01 with a huge supply can be far larger than one at $100 with a tiny supply.",
+    "Treat it as a size gauge, not a quality score. A large market cap says an asset is widely held and valued; it does not say anything about whether that value is justified."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-market-cap"
+}
