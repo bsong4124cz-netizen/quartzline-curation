@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-10T07:21:07Z",
+  "updated": "2026-09-10T07:50:27Z",
   "articles": [
     {
       "id": "safety-seed-phrase-theft",
@@ -10,17 +10,8 @@
       "summary": "The most direct crypto theft is simply getting you to reveal your recovery (seed) phrase. Once someone has it, they can recreate your wallet and move everything.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-seed-phrase-theft"
-    },
-    {
-      "id": "2026-09-10-recap",
-      "title": "Market Recap — 2026-09-10",
-      "date": "2026-09-10",
-      "angle": "recap",
-      "summary": "The total crypto market edged lower over the past 24 hours, with combined market capitalisation at $2.67T (-4.08% on the day).",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-recap"
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-seed-phrase-theft",
+      "publishedAt": "2026-09-07T08:22:12Z"
     },
     {
       "id": "2026-09-10-majors",
@@ -30,17 +21,8 @@
       "summary": "Bitcoin traded at $78,197 over the past 24 hours (-1.35%), with a market capitalisation of $1.57T and dominance of 58.6% of the total market.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-majors"
-    },
-    {
-      "id": "2026-09-10-security-hw-wallets",
-      "title": "Security Note: Fake Hardware-Wallet Alerts Are Circulating",
-      "date": "2026-09-10",
-      "angle": "security",
-      "summary": "Two hardware-wallet makers, Trezor and BitBox, have warned users about fake “security alert” messages that impersonate the companies and try to rush people into urgent action. The warnings were reported on 9–10 September 2026.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-security-hw-wallets"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-majors",
+      "publishedAt": "2026-09-10T05:17:34Z"
     },
     {
       "id": "2026-09-10-movers",
@@ -50,37 +32,19 @@
       "summary": "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
       "hasNav": false,
       "isHot": true,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers",
+      "publishedAt": "2026-09-10T02:38:58Z"
     },
     {
-      "id": "2026-09-10-sanctions-scam-market",
-      "title": "US Authorities Freeze About $52 Million Tied to a Crypto Scam Marketplace",
+      "id": "2026-09-10-recap",
+      "title": "Market Recap — 2026-09-10",
       "date": "2026-09-10",
-      "angle": "policy",
-      "summary": "US authorities moved against an online marketplace accused of underpinning global scams, restraining roughly $52 million in cryptocurrency linked to it, according to reporting on 9–10 September 2026.",
+      "angle": "recap",
+      "summary": "The total crypto market edged lower over the past 24 hours, with combined market capitalisation at $2.67T (-4.08% on the day).",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-sanctions-scam-market"
-    },
-    {
-      "id": "2026-09-10-quantum-clock",
-      "title": "Why Quantum Computing Keeps Coming Up in Bitcoin and Ethereum Debates",
-      "date": "2026-09-10",
-      "angle": "explainer",
-      "summary": "New quantum-computing hardware announcements have again put a long-running question back in front of crypto communities: could a future quantum computer break the cryptography that secures Bitcoin and Ethereum? The topic resurfaced around 9 September 2026 alongside fresh hardware news.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-quantum-clock"
-    },
-    {
-      "id": "2026-09-10-consensys-metamask",
-      "title": "Consensys Plans to Spin MetaMask Into Its Own Company",
-      "date": "2026-09-10",
-      "angle": "industry",
-      "summary": "Consensys said it intends to separate MetaMask — one of the most widely used self-custody wallets — into its own standalone company, according to reporting on 9 September 2026.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-consensys-metamask"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-recap",
+      "publishedAt": "2026-09-10T02:06:22Z"
     },
     {
       "id": "2026-09-10-memecoin-crash",
@@ -90,137 +54,30 @@
       "summary": "A widely publicised new memecoin lost close to 98% of its value within its first day of trading, according to reporting on 9–10 September 2026. The episode is a useful illustration of how the memecoin category behaves.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-memecoin-crash"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-memecoin-crash",
+      "publishedAt": "2026-09-09T20:06:39Z"
     },
     {
-      "id": "learn-market-cap",
-      "title": "What “Market Cap” Means for a Crypto",
+      "id": "2026-09-10-quantum-clock",
+      "title": "Why Quantum Computing Keeps Coming Up in Bitcoin and Ethereum Debates",
       "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A crypto's market capitalisation is its current price multiplied by the number of coins in circulation. It is a rough measure of the asset's total size, and it is why a low per-coin price does not by itself mean a coin is “cheap”.",
+      "angle": "explainer",
+      "summary": "New quantum-computing hardware announcements have again put a long-running question back in front of crypto communities: could a future quantum computer break the cryptography that secures Bitcoin and Ethereum? The topic resurfaced around 9 September 2026 alongside fresh hardware news.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-market-cap"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-quantum-clock",
+      "publishedAt": "2026-09-09T14:10:52Z"
     },
     {
-      "id": "learn-supply-types",
-      "title": "Circulating, Total and Max Supply — the Difference",
+      "id": "2026-09-10-consensys-metamask",
+      "title": "Consensys Plans to Spin MetaMask Into Its Own Company",
       "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Circulating supply is the number of coins available and in public hands right now. Total supply includes coins that exist but are locked, reserved or not yet released. Max supply is the hard ceiling a protocol will ever create, where one exists.",
+      "angle": "industry",
+      "summary": "Consensys said it intends to separate MetaMask — one of the most widely used self-custody wallets — into its own standalone company, according to reporting on 9 September 2026.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-supply-types"
-    },
-    {
-      "id": "learn-volume",
-      "title": "What 24-Hour Trading Volume Tells You",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Twenty-four-hour volume is the total value of an asset traded across markets in the past day. It is a measure of activity and interest, not of price direction.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-volume"
-    },
-    {
-      "id": "learn-btc-dominance",
-      "title": "Bitcoin Dominance, Explained",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Bitcoin dominance is Bitcoin's share of the entire crypto market's capitalisation. If the whole market is worth $2.5T and Bitcoin is $1.4T, dominance is about 56%.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-btc-dominance"
-    },
-    {
-      "id": "learn-fear-greed",
-      "title": "How the Crypto Fear & Greed Index Works",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "The Fear & Greed Index compresses several market inputs — volatility, momentum, volume and more — into a single number from 0 (extreme fear) to 100 (extreme greed).",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-fear-greed"
-    },
-    {
-      "id": "learn-stablecoins",
-      "title": "What a Stablecoin Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A stablecoin is a token designed to hold a steady value, usually pegged to a currency such as the US dollar. It aims to combine the stability of the reference currency with the portability of crypto.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoins"
-    },
-    {
-      "id": "learn-blockchain",
-      "title": "What a Blockchain Actually Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A blockchain is a shared ledger copied across many computers, where new entries are grouped into blocks and linked in order. Once recorded and confirmed, entries are extremely hard to alter.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-blockchain"
-    },
-    {
-      "id": "learn-pow-pos",
-      "title": "Proof of Work vs Proof of Stake",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Both are ways a decentralised network agrees on which transactions are valid. Proof of Work has computers compete to solve hard puzzles, spending energy to earn the right to add a block — the model Bitcoin uses.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-pow-pos"
-    },
-    {
-      "id": "learn-halving",
-      "title": "What Bitcoin's “Halving” Means",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Roughly every four years, the reward paid to Bitcoin miners for adding a block is cut in half. This is the halving, and it is written into Bitcoin's rules.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-halving"
-    },
-    {
-      "id": "learn-altcoins",
-      "title": "What “Altcoin” Means",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "“Altcoin” is shorthand for any cryptocurrency other than Bitcoin. The term covers everything from large, established networks to tiny, obscure tokens.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-altcoins"
-    },
-    {
-      "id": "learn-liquidity",
-      "title": "What “Liquidity” Means in a Market",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Liquidity is how easily an asset can be bought or sold without moving its price much. A liquid market has many buyers and sellers close together in price.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-liquidity"
-    },
-    {
-      "id": "learn-volatility",
-      "title": "Why Crypto Is So Volatile",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Volatility measures how much and how quickly a price swings. Crypto is known for high volatility: double-digit daily moves are not unusual.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-volatility"
-    },
-    {
-      "id": "learn-ath",
-      "title": "What an All-Time High (ATH) Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "An all-time high is the highest price an asset has ever reached. You will also see all-time low (ATL) for the opposite.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-ath"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-consensys-metamask",
+      "publishedAt": "2026-09-09T09:09:56Z"
     },
     {
       "id": "learn-recovery-phrase",
@@ -230,107 +87,8 @@
       "summary": "A recovery phrase — also called a seed phrase — is a list of words that can regenerate a crypto wallet and everything in it. Whoever holds the phrase controls the funds.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-recovery-phrase"
-    },
-    {
-      "id": "learn-custody",
-      "title": "Custodial vs Non-Custodial Wallets",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "In a custodial wallet, a company holds the keys on your behalf — much like a bank. In a non-custodial (self-custody) wallet, you hold the keys yourself.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-custody"
-    },
-    {
-      "id": "learn-hot-cold-wallets",
-      "title": "Hot Wallets vs Cold Wallets",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A hot wallet is connected to the internet — an app or browser extension — making it convenient for frequent use but more exposed to online threats.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-hot-cold-wallets"
-    },
-    {
-      "id": "learn-charts",
-      "title": "Candlestick vs Line Charts",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A line chart connects closing prices into a single line — clean and good for seeing the overall trend at a glance.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-charts"
-    },
-    {
-      "id": "learn-sparkline",
-      "title": "What a Sparkline Shows",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A sparkline is the tiny chart you see next to a coin in a list. It has no axes or numbers — it is there to show the shape of recent movement at a glance.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-sparkline"
-    },
-    {
-      "id": "learn-price-differences",
-      "title": "Why the Same Coin Shows Different Prices",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Crypto trades on many venues at once, each with its own buyers and sellers, so the exact price can differ slightly from place to place at any instant.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-price-differences"
-    },
-    {
-      "id": "learn-gas-fees",
-      "title": "What “Gas” and Network Fees Are",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Most blockchains charge a fee to process a transaction. On Ethereum and similar networks this is called “gas”, and it pays the network for the computation and space a transaction uses.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-gas-fees"
-    },
-    {
-      "id": "learn-fdv",
-      "title": "What Fully Diluted Valuation (FDV) Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Fully diluted valuation estimates what a coin's market cap would be if every coin that will ever exist were already in circulation — price multiplied by the maximum or total supply.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-fdv"
-    },
-    {
-      "id": "safety-phishing-links",
-      "title": "How to Spot a Phishing Link",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Phishing links imitate a real service to trick you into entering credentials or approving a transaction. The address often looks almost right — a swapped letter, an extra word, or a lookalike domain ending.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-phishing-links"
-    },
-    {
-      "id": "safety-fake-support",
-      "title": "“Support” That Messages You First Is a Scam",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "A common trick is an impostor posing as customer support who reaches out first — in a DM, a reply, or a chat group — offering to “help” with a problem you mentioned.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-support"
-    },
-    {
-      "id": "safety-giveaway-scams",
-      "title": "The “Send 1, Get 2 Back” Giveaway Scam",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "A persistent scam promises that if you send some crypto to an address, you will get back double — often dressed up with a famous name, a countdown, and fake “proof” of others being paid.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-giveaway-scams"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-recovery-phrase",
+      "publishedAt": "2026-09-09T05:48:31Z"
     },
     {
       "id": "safety-pig-butchering",
@@ -340,7 +98,41 @@
       "summary": "In these schemes a stranger builds a friendship or romance over weeks, then gradually introduces a “can't-miss” crypto opportunity on a platform they recommend.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-pig-butchering"
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-pig-butchering",
+      "publishedAt": "2026-09-09T00:59:55Z"
+    },
+    {
+      "id": "learn-price-differences",
+      "title": "Why the Same Coin Shows Different Prices",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Crypto trades on many venues at once, each with its own buyers and sellers, so the exact price can differ slightly from place to place at any instant.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-price-differences",
+      "publishedAt": "2026-09-09T00:40:28Z"
+    },
+    {
+      "id": "2026-09-10-security-hw-wallets",
+      "title": "Security Note: Fake Hardware-Wallet Alerts Are Circulating",
+      "date": "2026-09-10",
+      "angle": "security",
+      "summary": "Two hardware-wallet makers, Trezor and BitBox, have warned users about fake “security alert” messages that impersonate the companies and try to rush people into urgent action. The warnings were reported on 9–10 September 2026.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-security-hw-wallets",
+      "publishedAt": "2026-09-08T23:30:49Z"
+    },
+    {
+      "id": "2026-09-10-sanctions-scam-market",
+      "title": "US Authorities Freeze About $52 Million Tied to a Crypto Scam Marketplace",
+      "date": "2026-09-10",
+      "angle": "policy",
+      "summary": "US authorities moved against an online marketplace accused of underpinning global scams, restraining roughly $52 million in cryptocurrency linked to it, according to reporting on 9–10 September 2026.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-sanctions-scam-market",
+      "publishedAt": "2026-09-08T22:31:29Z"
     },
     {
       "id": "safety-fake-airdrops",
@@ -350,197 +142,30 @@
       "summary": "Scam “airdrops” drop unfamiliar tokens into your wallet or advertise a claim site. Interacting can prompt you to approve a contract that then drains your assets.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-airdrops"
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-airdrops",
+      "publishedAt": "2026-09-08T22:14:20Z"
     },
     {
-      "id": "safety-rug-pulls",
-      "title": "Rug Pulls: What They Are and the Warning Signs",
+      "id": "safety-fake-support",
+      "title": "“Support” That Messages You First Is a Scam",
       "date": "2026-09-10",
       "angle": "safety",
-      "summary": "A rug pull is when the people behind a token drain its liquidity or dump their holdings, collapsing the price and leaving holders with something they cannot sell.",
+      "summary": "A common trick is an impostor posing as customer support who reaches out first — in a DM, a reply, or a chat group — offering to “help” with a problem you mentioned.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-rug-pulls"
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-support",
+      "publishedAt": "2026-09-08T21:45:48Z"
     },
     {
-      "id": "safety-pump-and-dump",
-      "title": "How Pump-and-Dump Groups Work",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "A pump-and-dump group coordinates to buy a small, low-volume coin at once, creating a sudden spike that draws in outsiders — who become the exit liquidity.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-pump-and-dump"
-    },
-    {
-      "id": "safety-fake-apps",
-      "title": "Fake Wallet and Exchange Apps",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Scammers publish counterfeit wallet and exchange apps, or send links to sideload them, hoping you will enter a seed phrase or log in with real credentials.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-apps"
-    },
-    {
-      "id": "safety-sim-swap",
-      "title": "SIM-Swap Attacks and Why SMS Codes Are Weak",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "In a SIM-swap, an attacker convinces your mobile carrier to move your number to their device, then uses SMS codes to reset accounts and bypass text-based two-factor login.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-sim-swap"
-    },
-    {
-      "id": "safety-address-poisoning",
-      "title": "Address Poisoning: Check the Whole Address",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning"
-    },
-    {
-      "id": "safety-clipboard-malware",
-      "title": "Clipboard-Hijacking Malware",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Some malware silently watches your clipboard and, when it sees a crypto address, swaps in the attacker's address at the moment you paste.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-clipboard-malware"
-    },
-    {
-      "id": "safety-job-task-scams",
-      "title": "Fake Job and “Task” Scams",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "These start as an easy remote job — rating apps, “boosting” listings, completing tasks — that pays small amounts at first, then asks you to deposit crypto to unlock higher earnings.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-job-task-scams"
-    },
-    {
-      "id": "safety-too-good-returns",
-      "title": "When Returns Sound Too Good, They Usually Are",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Fraudulent schemes often advertise steady, unusually high payouts that never seem to have a losing period — a pattern real markets do not produce.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-too-good-returns"
-    },
-    {
-      "id": "safety-recovery-scams",
-      "title": "Beware “Recovery” Scams After a Loss",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "People who have already lost crypto are targeted a second time by “recovery experts” who promise, for an up-front fee, to trace and return the stolen funds.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-recovery-scams"
-    },
-    {
-      "id": "safety-verify-checklist",
-      "title": "A Simple “Verify Before You Trust” Checklist",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Most crypto scams collapse against a few habits. Slow down when something feels urgent — pressure and countdowns are tools used to stop you thinking.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-verify-checklist"
-    },
-    {
-      "id": "learn-coin-vs-token",
-      "title": "Coin vs Token — the Difference",
+      "id": "learn-market-cap",
+      "title": "What “Market Cap” Means for a Crypto",
       "date": "2026-09-10",
       "angle": "learn",
-      "summary": "A coin is the native asset of its own blockchain — Bitcoin on the Bitcoin network, Ether on Ethereum. It is used to pay that network's fees and secure it.",
+      "summary": "A crypto's market capitalisation is its current price multiplied by the number of coins in circulation. It is a rough measure of the asset's total size, and it is why a low per-coin price does not by itself mean a coin is “cheap”.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-coin-vs-token"
-    },
-    {
-      "id": "learn-smart-contract",
-      "title": "What a Smart Contract Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A smart contract is a program stored on a blockchain that runs exactly as written when its conditions are met, without a middleman to execute it.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-smart-contract"
-    },
-    {
-      "id": "learn-defi",
-      "title": "What “DeFi” Means",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "DeFi, or decentralised finance, refers to financial services — trading, lending, borrowing — built from smart contracts rather than run by a company.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-defi"
-    },
-    {
-      "id": "learn-nft",
-      "title": "What an NFT Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "An NFT, or non-fungible token, is a unique token that represents ownership of a specific item — art, a collectible, or access to something — recorded on a blockchain.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-nft"
-    },
-    {
-      "id": "learn-staking",
-      "title": "What Staking Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "Staking means locking up coins to help secure a Proof-of-Stake network, and in return earning rewards paid by the protocol.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-staking"
-    },
-    {
-      "id": "learn-layer-2",
-      "title": "What a “Layer 2” Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A Layer 2 is a network built on top of a base blockchain (the Layer 1) to handle transactions more cheaply and quickly, then settle back to the main chain.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-layer-2"
-    },
-    {
-      "id": "learn-bridges",
-      "title": "What a Blockchain Bridge Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A bridge lets assets or information move between two separate blockchains that cannot talk to each other directly.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-bridges"
-    },
-    {
-      "id": "learn-stablecoin-depeg",
-      "title": "What Happens When a Stablecoin “Depegs”",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A stablecoin is meant to track a reference value, usually one dollar. A “depeg” is when its market price drifts away from that target.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoin-depeg"
-    },
-    {
-      "id": "learn-keys-and-addresses",
-      "title": "Public Key, Private Key and Address",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A private key is the secret that authorises spending from a wallet. A public key and the address derived from it are what you share to receive funds.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-keys-and-addresses"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-market-cap",
+      "publishedAt": "2026-09-08T16:48:04Z"
     },
     {
       "id": "learn-transaction-hash",
@@ -550,17 +175,118 @@
       "summary": "Every confirmed transaction gets a unique identifier called a transaction hash, or TXID — a long string that acts as its receipt.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-transaction-hash"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-transaction-hash",
+      "publishedAt": "2026-09-08T14:56:35Z"
     },
     {
-      "id": "learn-block-explorer",
-      "title": "What a Block Explorer Is",
+      "id": "learn-blockchain",
+      "title": "What a Blockchain Actually Is",
       "date": "2026-09-10",
       "angle": "learn",
-      "summary": "A block explorer is a website that lets anyone look up the public data on a blockchain — transactions, addresses, blocks and balances.",
+      "summary": "A blockchain is a shared ledger copied across many computers, where new entries are grouped into blocks and linked in order. Once recorded and confirmed, entries are extremely hard to alter.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-block-explorer"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-blockchain",
+      "publishedAt": "2026-09-08T14:49:17Z"
+    },
+    {
+      "id": "learn-hot-cold-wallets",
+      "title": "Hot Wallets vs Cold Wallets",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A hot wallet is connected to the internet — an app or browser extension — making it convenient for frequent use but more exposed to online threats.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-hot-cold-wallets",
+      "publishedAt": "2026-09-08T09:34:46Z"
+    },
+    {
+      "id": "learn-fear-greed",
+      "title": "How the Crypto Fear & Greed Index Works",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "The Fear & Greed Index compresses several market inputs — volatility, momentum, volume and more — into a single number from 0 (extreme fear) to 100 (extreme greed).",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-fear-greed",
+      "publishedAt": "2026-09-08T07:10:02Z"
+    },
+    {
+      "id": "learn-stablecoin-depeg",
+      "title": "What Happens When a Stablecoin “Depegs”",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A stablecoin is meant to track a reference value, usually one dollar. A “depeg” is when its market price drifts away from that target.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoin-depeg",
+      "publishedAt": "2026-09-08T04:16:08Z"
+    },
+    {
+      "id": "learn-gas-fees",
+      "title": "What “Gas” and Network Fees Are",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Most blockchains charge a fee to process a transaction. On Ethereum and similar networks this is called “gas”, and it pays the network for the computation and space a transaction uses.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-gas-fees",
+      "publishedAt": "2026-09-08T00:31:39Z"
+    },
+    {
+      "id": "learn-liquidity",
+      "title": "What “Liquidity” Means in a Market",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Liquidity is how easily an asset can be bought or sold without moving its price much. A liquid market has many buyers and sellers close together in price.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-liquidity",
+      "publishedAt": "2026-09-08T00:14:34Z"
+    },
+    {
+      "id": "safety-recovery-scams",
+      "title": "Beware “Recovery” Scams After a Loss",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "People who have already lost crypto are targeted a second time by “recovery experts” who promise, for an up-front fee, to trace and return the stolen funds.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-recovery-scams",
+      "publishedAt": "2026-09-07T19:54:42Z"
+    },
+    {
+      "id": "learn-ath",
+      "title": "What an All-Time High (ATH) Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "An all-time high is the highest price an asset has ever reached. You will also see all-time low (ATL) for the opposite.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-ath",
+      "publishedAt": "2026-09-07T19:39:37Z"
+    },
+    {
+      "id": "learn-fdv",
+      "title": "What Fully Diluted Valuation (FDV) Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Fully diluted valuation estimates what a coin's market cap would be if every coin that will ever exist were already in circulation — price multiplied by the maximum or total supply.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-fdv",
+      "publishedAt": "2026-09-07T17:19:50Z"
+    },
+    {
+      "id": "learn-coin-vs-token",
+      "title": "Coin vs Token — the Difference",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A coin is the native asset of its own blockchain — Bitcoin on the Bitcoin network, Ether on Ethereum. It is used to pay that network's fees and secure it.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-coin-vs-token",
+      "publishedAt": "2026-09-07T13:34:09Z"
     },
     {
       "id": "learn-tvl",
@@ -570,17 +296,118 @@
       "summary": "Total value locked is the amount of assets currently deposited in a DeFi protocol — a rough gauge of how much people are using and trusting it.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-tvl"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-tvl",
+      "publishedAt": "2026-09-07T09:43:23Z"
     },
     {
-      "id": "learn-bull-bear",
-      "title": "Bull Market vs Bear Market",
+      "id": "learn-nft",
+      "title": "What an NFT Is",
       "date": "2026-09-10",
       "angle": "learn",
-      "summary": "A bull market is a sustained stretch of generally rising prices and optimism; a bear market is a prolonged period of falling prices and caution.",
+      "summary": "An NFT, or non-fungible token, is a unique token that represents ownership of a specific item — art, a collectible, or access to something — recorded on a blockchain.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-bull-bear"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-nft",
+      "publishedAt": "2026-09-07T06:51:08Z"
+    },
+    {
+      "id": "learn-altcoins",
+      "title": "What “Altcoin” Means",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "“Altcoin” is shorthand for any cryptocurrency other than Bitcoin. The term covers everything from large, established networks to tiny, obscure tokens.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-altcoins",
+      "publishedAt": "2026-09-07T00:21:55Z"
+    },
+    {
+      "id": "learn-layer-2",
+      "title": "What a “Layer 2” Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A Layer 2 is a network built on top of a base blockchain (the Layer 1) to handle transactions more cheaply and quickly, then settle back to the main chain.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-layer-2",
+      "publishedAt": "2026-09-06T22:31:10Z"
+    },
+    {
+      "id": "safety-verify-checklist",
+      "title": "A Simple “Verify Before You Trust” Checklist",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "Most crypto scams collapse against a few habits. Slow down when something feels urgent — pressure and countdowns are tools used to stop you thinking.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-verify-checklist",
+      "publishedAt": "2026-09-06T19:51:26Z"
+    },
+    {
+      "id": "learn-charts",
+      "title": "Candlestick vs Line Charts",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A line chart connects closing prices into a single line — clean and good for seeing the overall trend at a glance.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-charts",
+      "publishedAt": "2026-09-06T17:05:21Z"
+    },
+    {
+      "id": "learn-block-explorer",
+      "title": "What a Block Explorer Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A block explorer is a website that lets anyone look up the public data on a blockchain — transactions, addresses, blocks and balances.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-block-explorer",
+      "publishedAt": "2026-09-06T11:46:32Z"
+    },
+    {
+      "id": "learn-halving",
+      "title": "What Bitcoin's “Halving” Means",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Roughly every four years, the reward paid to Bitcoin miners for adding a block is cut in half. This is the halving, and it is written into Bitcoin's rules.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-halving",
+      "publishedAt": "2026-09-06T11:43:45Z"
+    },
+    {
+      "id": "safety-job-task-scams",
+      "title": "Fake Job and “Task” Scams",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "These start as an easy remote job — rating apps, “boosting” listings, completing tasks — that pays small amounts at first, then asks you to deposit crypto to unlock higher earnings.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-job-task-scams",
+      "publishedAt": "2026-09-06T11:42:58Z"
+    },
+    {
+      "id": "learn-defi",
+      "title": "What “DeFi” Means",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "DeFi, or decentralised finance, refers to financial services — trading, lending, borrowing — built from smart contracts rather than run by a company.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-defi",
+      "publishedAt": "2026-09-06T11:40:22Z"
+    },
+    {
+      "id": "safety-too-good-returns",
+      "title": "When Returns Sound Too Good, They Usually Are",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "Fraudulent schemes often advertise steady, unusually high payouts that never seem to have a losing period — a pattern real markets do not produce.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-too-good-returns",
+      "publishedAt": "2026-09-06T07:56:50Z"
     },
     {
       "id": "learn-whitepaper",
@@ -590,7 +417,239 @@
       "summary": "A whitepaper is the document a crypto project publishes to explain what it does, how it works, and why it exists.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-whitepaper"
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-whitepaper",
+      "publishedAt": "2026-09-06T07:30:01Z"
+    },
+    {
+      "id": "safety-giveaway-scams",
+      "title": "The “Send 1, Get 2 Back” Giveaway Scam",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "A persistent scam promises that if you send some crypto to an address, you will get back double — often dressed up with a famous name, a countdown, and fake “proof” of others being paid.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-giveaway-scams",
+      "publishedAt": "2026-09-06T02:36:49Z"
+    },
+    {
+      "id": "safety-clipboard-malware",
+      "title": "Clipboard-Hijacking Malware",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "Some malware silently watches your clipboard and, when it sees a crypto address, swaps in the attacker's address at the moment you paste.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-clipboard-malware",
+      "publishedAt": "2026-09-06T00:57:52Z"
+    },
+    {
+      "id": "safety-sim-swap",
+      "title": "SIM-Swap Attacks and Why SMS Codes Are Weak",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "In a SIM-swap, an attacker convinces your mobile carrier to move your number to their device, then uses SMS codes to reset accounts and bypass text-based two-factor login.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-sim-swap",
+      "publishedAt": "2026-09-05T23:53:13Z"
+    },
+    {
+      "id": "learn-pow-pos",
+      "title": "Proof of Work vs Proof of Stake",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Both are ways a decentralised network agrees on which transactions are valid. Proof of Work has computers compete to solve hard puzzles, spending energy to earn the right to add a block — the model Bitcoin uses.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-pow-pos",
+      "publishedAt": "2026-09-05T23:02:53Z"
+    },
+    {
+      "id": "safety-fake-apps",
+      "title": "Fake Wallet and Exchange Apps",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "Scammers publish counterfeit wallet and exchange apps, or send links to sideload them, hoping you will enter a seed phrase or log in with real credentials.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-apps",
+      "publishedAt": "2026-09-05T19:21:24Z"
+    },
+    {
+      "id": "learn-smart-contract",
+      "title": "What a Smart Contract Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A smart contract is a program stored on a blockchain that runs exactly as written when its conditions are met, without a middleman to execute it.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-smart-contract",
+      "publishedAt": "2026-09-05T16:24:04Z"
+    },
+    {
+      "id": "learn-bull-bear",
+      "title": "Bull Market vs Bear Market",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A bull market is a sustained stretch of generally rising prices and optimism; a bear market is a prolonged period of falling prices and caution.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-bull-bear",
+      "publishedAt": "2026-09-05T15:49:08Z"
+    },
+    {
+      "id": "safety-rug-pulls",
+      "title": "Rug Pulls: What They Are and the Warning Signs",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "A rug pull is when the people behind a token drain its liquidity or dump their holdings, collapsing the price and leaving holders with something they cannot sell.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-rug-pulls",
+      "publishedAt": "2026-09-05T04:24:24Z"
+    },
+    {
+      "id": "learn-staking",
+      "title": "What Staking Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Staking means locking up coins to help secure a Proof-of-Stake network, and in return earning rewards paid by the protocol.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-staking",
+      "publishedAt": "2026-09-05T01:23:29Z"
+    },
+    {
+      "id": "learn-keys-and-addresses",
+      "title": "Public Key, Private Key and Address",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A private key is the secret that authorises spending from a wallet. A public key and the address derived from it are what you share to receive funds.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-keys-and-addresses",
+      "publishedAt": "2026-09-04T17:30:21Z"
+    },
+    {
+      "id": "learn-volatility",
+      "title": "Why Crypto Is So Volatile",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Volatility measures how much and how quickly a price swings. Crypto is known for high volatility: double-digit daily moves are not unusual.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-volatility",
+      "publishedAt": "2026-09-04T16:57:04Z"
+    },
+    {
+      "id": "learn-volume",
+      "title": "What 24-Hour Trading Volume Tells You",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Twenty-four-hour volume is the total value of an asset traded across markets in the past day. It is a measure of activity and interest, not of price direction.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-volume",
+      "publishedAt": "2026-09-04T16:56:03Z"
+    },
+    {
+      "id": "learn-btc-dominance",
+      "title": "Bitcoin Dominance, Explained",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Bitcoin dominance is Bitcoin's share of the entire crypto market's capitalisation. If the whole market is worth $2.5T and Bitcoin is $1.4T, dominance is about 56%.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-btc-dominance",
+      "publishedAt": "2026-09-04T14:37:02Z"
+    },
+    {
+      "id": "learn-supply-types",
+      "title": "Circulating, Total and Max Supply — the Difference",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "Circulating supply is the number of coins available and in public hands right now. Total supply includes coins that exist but are locked, reserved or not yet released. Max supply is the hard ceiling a protocol will ever create, where one exists.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-supply-types",
+      "publishedAt": "2026-09-04T12:03:34Z"
+    },
+    {
+      "id": "learn-bridges",
+      "title": "What a Blockchain Bridge Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A bridge lets assets or information move between two separate blockchains that cannot talk to each other directly.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-bridges",
+      "publishedAt": "2026-09-04T11:04:23Z"
+    },
+    {
+      "id": "safety-pump-and-dump",
+      "title": "How Pump-and-Dump Groups Work",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "A pump-and-dump group coordinates to buy a small, low-volume coin at once, creating a sudden spike that draws in outsiders — who become the exit liquidity.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-pump-and-dump",
+      "publishedAt": "2026-09-04T06:51:57Z"
+    },
+    {
+      "id": "learn-stablecoins",
+      "title": "What a Stablecoin Is",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A stablecoin is a token designed to hold a steady value, usually pegged to a currency such as the US dollar. It aims to combine the stability of the reference currency with the portability of crypto.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoins",
+      "publishedAt": "2026-09-04T04:41:59Z"
+    },
+    {
+      "id": "learn-sparkline",
+      "title": "What a Sparkline Shows",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "A sparkline is the tiny chart you see next to a coin in a list. It has no axes or numbers — it is there to show the shape of recent movement at a glance.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-sparkline",
+      "publishedAt": "2026-09-03T18:16:53Z"
+    },
+    {
+      "id": "safety-address-poisoning",
+      "title": "Address Poisoning: Check the Whole Address",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning",
+      "publishedAt": "2026-09-03T17:25:11Z"
+    },
+    {
+      "id": "safety-phishing-links",
+      "title": "How to Spot a Phishing Link",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "Phishing links imitate a real service to trick you into entering credentials or approving a transaction. The address often looks almost right — a swapped letter, an extra word, or a lookalike domain ending.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-phishing-links",
+      "publishedAt": "2026-09-03T16:38:55Z"
+    },
+    {
+      "id": "learn-custody",
+      "title": "Custodial vs Non-Custodial Wallets",
+      "date": "2026-09-10",
+      "angle": "learn",
+      "summary": "In a custodial wallet, a company holds the keys on your behalf — much like a bank. In a non-custodial (self-custody) wallet, you hold the keys yourself.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-custody",
+      "publishedAt": "2026-09-03T12:52:02Z"
     }
   ]
 }
