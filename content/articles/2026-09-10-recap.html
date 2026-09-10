@@ -10,9 +10,16 @@
   @media (prefers-color-scheme: dark) { :root {
     --bg:#131316; --fg:#e7e7ea; --muted:#9a9aa2; --rule:rgba(140,140,150,.26); } }
   * { box-sizing:border-box; }
-  body { max-width:42rem; margin:0 auto; padding:3rem 1.5rem 5rem;
-    font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    color:var(--fg); background:var(--bg); }
+  body { margin:0; color:var(--fg); background:var(--bg);
+    font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  .webnav { position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:.4rem;
+    padding:.55rem .8rem; background:color-mix(in srgb, var(--bg) 78%, transparent);
+    backdrop-filter:saturate(180%) blur(14px); border-bottom:1px solid var(--rule); }
+  .webnav .back { font-size:1.7rem; line-height:1; background:none; border:none;
+    color:var(--fg); cursor:pointer; padding:0 .3rem; }
+  .webnav .navtitle { font-size:1rem; font-weight:600; }
+  .has-native-nav .webnav { display:none; }
+  main { max-width:42rem; margin:0 auto; padding:1.5rem 1.5rem 5rem; }
   h1 { font-size:1.6rem; letter-spacing:-.02em; margin:0 0 .3rem; }
   .date { color:var(--muted); font-size:.9rem; margin:0 0 2rem; }
   p { margin:0 0 1rem; }
@@ -22,12 +29,29 @@
 </style>
 </head>
 <body>
-  <h1>Market Recap — 2026-09-10</h1>
-  <p class="date">2026-09-10</p>
-    <p>The total crypto market edged lower over the past 24 hours, with combined market capitalisation at $2.69T (-3.46% on the day).</p>
+  <header class="webnav">
+    <button class="back" onclick="qzBack()" aria-label="Back">‹</button>
+    <span class="navtitle">Quartzline</span>
+  </header>
+  <main>
+    <h1>Market Recap — 2026-09-10</h1>
+    <p class="date">2026-09-10</p>
+    <p>The total crypto market edged lower over the past 24 hours, with combined market capitalisation at $2.67T (-3.80% on the day).</p>
     <p>The Crypto Fear &amp; Greed Index reads 69 (Greed), a gauge of overall market sentiment compiled from volatility, momentum and volume.</p>
-    <p>Bitcoin traded at $78,451 (-0.56%) and Ether at $2,480 (-0.60%). Bitcoin dominance stood at 58.6% and Ether at 11.2%.</p>
-  <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
-  <p class="source">Data: CoinGecko, Alternative.me. Original analysis by Quartzline.</p>
+    <p>Bitcoin traded at $78,182 (-1.26%) and Ether at $2,472 (-1.15%). Bitcoin dominance stood at 58.6% and Ether at 11.2%.</p>
+    <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
+    <p class="source">Data: CoinGecko, Alternative.me. Original analysis by Quartzline.</p>
+  </main>
+
+<script>
+  function qzBack() {
+    try { window.webkit.messageHandlers.webInfoback.postMessage('back'); }
+    catch (e) { history.back(); }
+  }
+  window.hideWebNav = function () {
+    document.documentElement.classList.add('has-native-nav');
+  };
+</script>
+
 </body>
 </html>

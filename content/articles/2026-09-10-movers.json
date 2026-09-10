@@ -6,10 +6,12 @@
   "summary": "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
   "blocks": [
     "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
-    "Largest gainers: NEAR Protocol (NEAR) at $2.4900 (+7.0%); MemeCore (M) at $1.2200 (+3.6%); Monero (XMR) at $515.3200 (+2.4%); Rain (RAIN) at $0.0164 (+2.0%); World Liberty Financial (WLFI) at $0.0568 (+1.7%).",
-    "Largest decliners: Uniswap (UNI) at $6.1000 (-11.3%); Polkadot (DOT) at $1.1100 (-6.5%); Sui (SUI) at $0.7698 (-5.3%); Chainlink (LINK) at $11.8600 (-5.0%); Mantle (MNT) at $0.5985 (-5.0%).",
+    "Largest gainers: MemeCore (M) at $1.2300 (+3.8%); NEAR Protocol (NEAR) at $2.4500 (+3.2%); Monero (XMR) at $511.0200 (+1.9%); Rain (RAIN) at $0.0163 (+1.6%); World Liberty Financial (WLFI) at $0.0566 (+1.2%).",
+    "Largest decliners: Uniswap (UNI) at $6.0300 (-13.0%); Polkadot (DOT) at $1.0970 (-7.7%); Sui (SUI) at $0.7647 (-6.7%); Chainlink (LINK) at $11.8000 (-6.3%); Mantle (MNT) at $0.5965 (-5.8%).",
     "Market capitalisation ranking reflects data at the time of writing and changes continuously."
   ],
+  "hasNav": false,
+  "isHot": true,
   "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
   "source": "Data: CoinGecko, Alternative.me. Original analysis by Quartzline.",
   "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers"

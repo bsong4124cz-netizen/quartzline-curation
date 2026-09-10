@@ -5,30 +5,80 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Top Movers — 2026-09-10</title>
 <style>
-  :root { color-scheme: light dark;
-    --bg:#fff; --fg:#1c1c1e; --muted:#6b6b70; --rule:rgba(120,120,128,.22); }
-  @media (prefers-color-scheme: dark) { :root {
-    --bg:#131316; --fg:#e7e7ea; --muted:#9a9aa2; --rule:rgba(140,140,150,.26); } }
   * { box-sizing:border-box; }
-  body { max-width:42rem; margin:0 auto; padding:3rem 1.5rem 5rem;
-    font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    color:var(--fg); background:var(--bg); }
-  h1 { font-size:1.6rem; letter-spacing:-.02em; margin:0 0 .3rem; }
-  .date { color:var(--muted); font-size:.9rem; margin:0 0 2rem; }
-  p { margin:0 0 1rem; }
-  .disclaimer { margin-top:2.5rem; padding-top:1.25rem; border-top:1px solid var(--rule);
-    color:var(--muted); font-size:.85rem; }
-  .source { color:var(--muted); font-size:.8rem; margin-top:1rem; }
+  html, body { margin:0; }
+  body {
+    color:#f4f5ff; min-height:100vh;
+    font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    background:#0b0b16;
+    background-image:
+      radial-gradient(1200px 600px at 10% -10%, #5b2be0 0%, transparent 55%),
+      radial-gradient(1000px 500px at 100% 0%, #0d6efd 0%, transparent 50%),
+      linear-gradient(160deg, #12081f 0%, #0b0b16 60%);
+    background-attachment:fixed;
+  }
+  .webnav { position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:.4rem;
+    padding:.55rem .8rem; background:rgba(12,10,24,.55);
+    backdrop-filter:saturate(160%) blur(16px); border-bottom:1px solid rgba(255,255,255,.08); }
+  .webnav .back { font-size:1.7rem; line-height:1; background:none; border:none;
+    color:#f4f5ff; cursor:pointer; padding:0 .3rem; }
+  .webnav .navtitle { font-size:1rem; font-weight:600; letter-spacing:.02em; }
+  .has-native-nav .webnav { display:none; }
+
+  .hero { padding:3rem 1.5rem 1.5rem; max-width:44rem; margin:0 auto; }
+  .badge { display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:.08em;
+    padding:.3rem .6rem; border-radius:999px; color:#fff;
+    background:linear-gradient(90deg,#ff4d6d,#ff9a3d); box-shadow:0 6px 20px rgba(255,77,109,.35); }
+  h1 { font-size:2.5rem; line-height:1.08; letter-spacing:-.03em; margin:.9rem 0 .4rem;
+    background:linear-gradient(92deg,#fff 20%,#b9a7ff 60%,#7cc4ff 100%);
+    -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .date { color:#a9a7c7; font-size:.95rem; margin:0; }
+
+  main { max-width:44rem; margin:0 auto; padding:.5rem 1.5rem 5rem; }
+  .card { background:rgba(255,255,255,.055); border:1px solid rgba(255,255,255,.09);
+    border-radius:16px; padding:1.05rem 1.2rem; margin:0 0 .9rem;
+    backdrop-filter:blur(6px); box-shadow:0 10px 30px rgba(0,0,0,.25);
+    opacity:0; transform:translateY(14px); animation:rise .6s ease forwards; }
+  .card p { margin:0; }
+  @keyframes rise { to { opacity:1; transform:none; } }
+  @media (prefers-reduced-motion: reduce) { .card { animation:none; opacity:1; transform:none; } }
+
+  .footer { max-width:44rem; margin:0 auto; padding:0 1.5rem 4rem; }
+  .disclaimer { color:#9a98bd; font-size:.82rem; border-top:1px solid rgba(255,255,255,.09);
+    padding-top:1.1rem; margin-top:1.5rem; }
+  .source { color:#8a88ad; font-size:.78rem; margin-top:.8rem; }
 </style>
 </head>
 <body>
-  <h1>Top Movers — 2026-09-10</h1>
-  <p class="date">2026-09-10</p>
-    <p>The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.</p>
-    <p>Largest gainers: NEAR Protocol (NEAR) at $2.4900 (+7.0%); MemeCore (M) at $1.2200 (+3.6%); Monero (XMR) at $515.3200 (+2.4%); Rain (RAIN) at $0.0164 (+2.0%); World Liberty Financial (WLFI) at $0.0568 (+1.7%).</p>
-    <p>Largest decliners: Uniswap (UNI) at $6.1000 (-11.3%); Polkadot (DOT) at $1.1100 (-6.5%); Sui (SUI) at $0.7698 (-5.3%); Chainlink (LINK) at $11.8600 (-5.0%); Mantle (MNT) at $0.5985 (-5.0%).</p>
-    <p>Market capitalisation ranking reflects data at the time of writing and changes continuously.</p>
-  <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
-  <p class="source">Data: CoinGecko, Alternative.me. Original analysis by Quartzline.</p>
+  <header class="webnav">
+    <button class="back" onclick="qzBack()" aria-label="Back">‹</button>
+    <span class="navtitle">Quartzline</span>
+  </header>
+  <section class="hero">
+    <span class="badge">🔥 HOT</span>
+    <h1>Top Movers — 2026-09-10</h1>
+    <p class="date">2026-09-10</p>
+  </section>
+  <main>
+      <div class="card" style="animation-delay:0.00s"><p>The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.</p></div>
+      <div class="card" style="animation-delay:0.08s"><p>Largest gainers: MemeCore (M) at $1.2300 (+3.8%); NEAR Protocol (NEAR) at $2.4500 (+3.2%); Monero (XMR) at $511.0200 (+1.9%); Rain (RAIN) at $0.0163 (+1.6%); World Liberty Financial (WLFI) at $0.0566 (+1.2%).</p></div>
+      <div class="card" style="animation-delay:0.16s"><p>Largest decliners: Uniswap (UNI) at $6.0300 (-13.0%); Polkadot (DOT) at $1.0970 (-7.7%); Sui (SUI) at $0.7647 (-6.7%); Chainlink (LINK) at $11.8000 (-6.3%); Mantle (MNT) at $0.5965 (-5.8%).</p></div>
+      <div class="card" style="animation-delay:0.24s"><p>Market capitalisation ranking reflects data at the time of writing and changes continuously.</p></div>
+  </main>
+  <div class="footer">
+    <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
+    <p class="source">Data: CoinGecko, Alternative.me. Original analysis by Quartzline.</p>
+  </div>
+
+<script>
+  function qzBack() {
+    try { window.webkit.messageHandlers.webInfoback.postMessage('back'); }
+    catch (e) { history.back(); }
+  }
+  window.hideWebNav = function () {
+    document.documentElement.classList.add('has-native-nav');
+  };
+</script>
+
 </body>
 </html>
