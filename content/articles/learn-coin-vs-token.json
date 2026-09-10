@@ -1,0 +1,17 @@
+{
+  "id": "learn-coin-vs-token",
+  "title": "Coin vs Token — the Difference",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A coin is the native asset of its own blockchain — Bitcoin on the Bitcoin network, Ether on Ethereum. It is used to pay that network's fees and secure it.",
+  "blocks": [
+    "A coin is the native asset of its own blockchain — Bitcoin on the Bitcoin network, Ether on Ethereum. It is used to pay that network's fees and secure it.",
+    "A token is issued on top of an existing blockchain using its standards, rather than having a chain of its own. Many assets you see are tokens on Ethereum or other networks.",
+    "The distinction matters for how something works under the hood, but in a price list both simply appear as tradable assets with a market value."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-coin-vs-token"
+}

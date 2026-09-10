@@ -1,0 +1,17 @@
+{
+  "id": "safety-address-poisoning",
+  "title": "Address Poisoning: Check the Whole Address",
+  "date": "2026-09-10",
+  "angle": "safety",
+  "summary": "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
+  "blocks": [
+    "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
+    "If you paste the lookalike, your funds go to the attacker. The trick relies on people checking only the beginning and end of an address.",
+    "Verify the full address, not just the ends, and prefer saved contacts or a scanned QR from the real recipient over copying from your transaction list."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning"
+}

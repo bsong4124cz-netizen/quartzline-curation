@@ -1,0 +1,17 @@
+{
+  "id": "learn-staking",
+  "title": "What Staking Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Staking means locking up coins to help secure a Proof-of-Stake network, and in return earning rewards paid by the protocol.",
+  "blocks": [
+    "Staking means locking up coins to help secure a Proof-of-Stake network, and in return earning rewards paid by the protocol.",
+    "By committing a stake, participants earn the right to help validate transactions; acting dishonestly can cost them part of that stake.",
+    "Rewards are not free money — they come with lock-up periods, potential penalties, and the ordinary price risk of holding the coin. The details vary by network."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-staking"
+}

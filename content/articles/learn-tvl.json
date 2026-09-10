@@ -1,0 +1,17 @@
+{
+  "id": "learn-tvl",
+  "title": "What “Total Value Locked” (TVL) Means",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Total value locked is the amount of assets currently deposited in a DeFi protocol — a rough gauge of how much people are using and trusting it.",
+  "blocks": [
+    "Total value locked is the amount of assets currently deposited in a DeFi protocol — a rough gauge of how much people are using and trusting it.",
+    "A higher TVL suggests more activity and liquidity, which is why it is often used to compare the size of different protocols.",
+    "It is only one measure and can move sharply with prices and incentives, so it describes scale rather than safety or quality."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-tvl"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "learn-defi",
+  "title": "What “DeFi” Means",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "DeFi, or decentralised finance, refers to financial services — trading, lending, borrowing — built from smart contracts rather than run by a company.",
+  "blocks": [
+    "DeFi, or decentralised finance, refers to financial services — trading, lending, borrowing — built from smart contracts rather than run by a company.",
+    "Instead of an account at an institution, you interact directly from your own wallet, and the rules are enforced by code on a public network.",
+    "The appeal is openness and self-custody; the trade-off is that you carry the risk yourself, from contract bugs to your own mistakes, with no support desk to call."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-defi"
+}

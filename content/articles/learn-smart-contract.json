@@ -1,0 +1,17 @@
+{
+  "id": "learn-smart-contract",
+  "title": "What a Smart Contract Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A smart contract is a program stored on a blockchain that runs exactly as written when its conditions are met, without a middleman to execute it.",
+  "blocks": [
+    "A smart contract is a program stored on a blockchain that runs exactly as written when its conditions are met, without a middleman to execute it.",
+    "This is what powers most of crypto beyond simple payments — from tokens to lending to exchanges — because the rules live in code that anyone can inspect.",
+    "Because they are automatic and hard to change once deployed, bugs or malicious code in a contract can be costly. “Code is law” cuts both ways."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-smart-contract"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "safety-fake-airdrops",
+  "title": "Fake Airdrops and Dangerous Token Approvals",
+  "date": "2026-09-10",
+  "angle": "safety",
+  "summary": "Scam “airdrops” drop unfamiliar tokens into your wallet or advertise a claim site. Interacting can prompt you to approve a contract that then drains your assets.",
+  "blocks": [
+    "Scam “airdrops” drop unfamiliar tokens into your wallet or advertise a claim site. Interacting can prompt you to approve a contract that then drains your assets.",
+    "The danger is the approval, not the token sitting there. Granting a malicious contract permission can let it move your funds later, even after you close the page.",
+    "Be cautious with unexpected tokens, avoid “claim” sites you did not seek out, and periodically review and revoke token approvals you no longer need."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-airdrops"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "learn-keys-and-addresses",
+  "title": "Public Key, Private Key and Address",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A private key is the secret that authorises spending from a wallet. A public key and the address derived from it are what you share to receive funds.",
+  "blocks": [
+    "A private key is the secret that authorises spending from a wallet. A public key and the address derived from it are what you share to receive funds.",
+    "You can hand out an address freely — it only lets people send to you. The private key, and the recovery phrase that can regenerate it, must stay secret.",
+    "The whole security model rests on this split: public to receive, private to spend. Anyone with the private information controls the funds."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-keys-and-addresses"
+}

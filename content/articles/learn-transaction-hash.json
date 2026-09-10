@@ -1,0 +1,17 @@
+{
+  "id": "learn-transaction-hash",
+  "title": "What a Transaction Hash (TXID) Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "Every confirmed transaction gets a unique identifier called a transaction hash, or TXID — a long string that acts as its receipt.",
+  "blocks": [
+    "Every confirmed transaction gets a unique identifier called a transaction hash, or TXID — a long string that acts as its receipt.",
+    "You can paste it into a block explorer to see the transaction's status, amount, sender, recipient and confirmations.",
+    "It is the definitive way to check whether a transfer actually happened, which is far more reliable than a screenshot someone shows you."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-transaction-hash"
+}

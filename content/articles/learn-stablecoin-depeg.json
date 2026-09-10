@@ -1,0 +1,17 @@
+{
+  "id": "learn-stablecoin-depeg",
+  "title": "What Happens When a Stablecoin “Depegs”",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A stablecoin is meant to track a reference value, usually one dollar. A “depeg” is when its market price drifts away from that target.",
+  "blocks": [
+    "A stablecoin is meant to track a reference value, usually one dollar. A “depeg” is when its market price drifts away from that target.",
+    "Small, brief deviations happen and often correct quickly. Large or lasting ones can signal doubts about whether the token is truly backed as claimed.",
+    "The severity depends on the design: well-reserved, transparent stablecoins tend to recover, while under-collateralised or purely algorithmic ones have failed outright."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoin-depeg"
+}

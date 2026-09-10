@@ -1,0 +1,17 @@
+{
+  "id": "safety-phishing-links",
+  "title": "How to Spot a Phishing Link",
+  "date": "2026-09-10",
+  "angle": "safety",
+  "summary": "Phishing links imitate a real service to trick you into entering credentials or approving a transaction. The address often looks almost right — a swapped letter, an extra word, or a lookalike domain ending.",
+  "blocks": [
+    "Phishing links imitate a real service to trick you into entering credentials or approving a transaction. The address often looks almost right — a swapped letter, an extra word, or a lookalike domain ending.",
+    "Before you connect a wallet or sign in, read the full domain carefully, and reach sites through your own bookmark or a search rather than a link someone sent you.",
+    "Treat links in unexpected emails, DMs and ads as untrusted by default. The safest habit is to navigate to important sites yourself instead of clicking through."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-phishing-links"
+}

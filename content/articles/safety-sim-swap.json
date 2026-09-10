@@ -1,0 +1,17 @@
+{
+  "id": "safety-sim-swap",
+  "title": "SIM-Swap Attacks and Why SMS Codes Are Weak",
+  "date": "2026-09-10",
+  "angle": "safety",
+  "summary": "In a SIM-swap, an attacker convinces your mobile carrier to move your number to their device, then uses SMS codes to reset accounts and bypass text-based two-factor login.",
+  "blocks": [
+    "In a SIM-swap, an attacker convinces your mobile carrier to move your number to their device, then uses SMS codes to reset accounts and bypass text-based two-factor login.",
+    "Because of this, SMS is the weakest form of two-factor authentication. An app-based authenticator or a hardware security key is far harder to hijack.",
+    "Add a carrier PIN or port-freeze where available, and move important accounts off SMS codes to an authenticator app or security key."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-sim-swap"
+}

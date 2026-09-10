@@ -1,0 +1,17 @@
+{
+  "id": "learn-layer-2",
+  "title": "What a “Layer 2” Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A Layer 2 is a network built on top of a base blockchain (the Layer 1) to handle transactions more cheaply and quickly, then settle back to the main chain.",
+  "blocks": [
+    "A Layer 2 is a network built on top of a base blockchain (the Layer 1) to handle transactions more cheaply and quickly, then settle back to the main chain.",
+    "The idea is to keep the security of the underlying network while moving most activity to a faster layer, easing congestion and fees.",
+    "For users, a Layer 2 usually feels like the same ecosystem with lower costs, though moving assets between layers involves its own steps and considerations."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-layer-2"
+}

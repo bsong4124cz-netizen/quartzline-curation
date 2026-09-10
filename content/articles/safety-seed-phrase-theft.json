@@ -1,0 +1,17 @@
+{
+  "id": "safety-seed-phrase-theft",
+  "title": "No One Legitimate Ever Needs Your Seed Phrase",
+  "date": "2026-09-10",
+  "angle": "safety",
+  "summary": "The most direct crypto theft is simply getting you to reveal your recovery (seed) phrase. Once someone has it, they can recreate your wallet and move everything.",
+  "blocks": [
+    "The most direct crypto theft is simply getting you to reveal your recovery (seed) phrase. Once someone has it, they can recreate your wallet and move everything.",
+    "No exchange, wallet maker, support agent, airdrop, or “verification” step legitimately requires your seed phrase. Any request for it — by anyone, for any reason — is theft in progress.",
+    "Keep it offline, never type it into a website, message or form, and never store a photo of it in the cloud. The phrase belongs in your head or on paper, nowhere online."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-seed-phrase-theft"
+}

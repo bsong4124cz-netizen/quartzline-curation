@@ -1,0 +1,17 @@
+{
+  "id": "learn-nft",
+  "title": "What an NFT Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "An NFT, or non-fungible token, is a unique token that represents ownership of a specific item — art, a collectible, or access to something — recorded on a blockchain.",
+  "blocks": [
+    "An NFT, or non-fungible token, is a unique token that represents ownership of a specific item — art, a collectible, or access to something — recorded on a blockchain.",
+    "Unlike a coin, where each unit is interchangeable, each NFT is distinct. That is what lets it stand in for a one-of-a-kind item.",
+    "What an NFT actually grants depends entirely on the project behind it; the token proves ownership of the entry on-chain, not necessarily any rights off-chain."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-nft"
+}

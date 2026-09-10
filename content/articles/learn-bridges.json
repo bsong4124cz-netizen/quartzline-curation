@@ -1,0 +1,17 @@
+{
+  "id": "learn-bridges",
+  "title": "What a Blockchain Bridge Is",
+  "date": "2026-09-10",
+  "angle": "learn",
+  "summary": "A bridge lets assets or information move between two separate blockchains that cannot talk to each other directly.",
+  "blocks": [
+    "A bridge lets assets or information move between two separate blockchains that cannot talk to each other directly.",
+    "It typically locks an asset on one chain and represents it on the other, so you can use it in a different ecosystem.",
+    "Bridges are useful but have historically been a target for large hacks, because they concentrate a lot of value in complex contracts. Understanding that risk is part of using them."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-bridges"
+}
