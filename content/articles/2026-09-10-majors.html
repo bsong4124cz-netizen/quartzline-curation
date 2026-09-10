@@ -15,10 +15,11 @@
   .webnav { position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:.4rem;
     padding:calc(env(safe-area-inset-top) + .55rem) .8rem .55rem; background:color-mix(in srgb, var(--bg) 78%, transparent);
     backdrop-filter:saturate(180%) blur(14px); border-bottom:1px solid var(--rule); }
-  .webnav .back { font-size:1.7rem; line-height:1; background:none; border:none;
-    color:var(--fg); cursor:pointer; display:inline-flex; align-items:center;
-    justify-content:center; width:44px; height:44px; margin-left:-10px; padding:0;
+  .webnav .back { display:inline-flex; align-items:center; gap:.3rem; min-height:44px;
+    background:none; border:none; color:var(--fg); cursor:pointer;
+    padding:.4rem .8rem .4rem .5rem; margin-left:-.5rem;
     -webkit-tap-highlight-color:transparent; }
+  .webnav .chev { font-size:1.7rem; line-height:1; }
   .webnav .navtitle { font-size:1rem; font-weight:600; }
   .has-native-nav .webnav { display:none; }
   main { max-width:42rem; margin:0 auto; padding:1.5rem 1.5rem 5rem; }
@@ -33,14 +34,16 @@
 </head>
 <body>
   <header class="webnav">
-    <button class="back" onclick="qzBack()" aria-label="Back">‹</button>
-    <span class="navtitle">Quartzline</span>
+    <button class="back" onclick="qzBack()" aria-label="Back">
+      <span class="chev">‹</span>
+      <span class="navtitle">Quartzline</span>
+    </button>
   </header>
   <main>
     <h1>Bitcoin &amp; Ether Snapshot — 2026-09-10</h1>
     <p class="date">2026-09-10</p>
-    <p>Bitcoin traded at $78,143 over the past 24 hours (-1.84%), with a market capitalisation of $1.57T and dominance of 58.6% of the total market.</p>
-    <p>Ether traded at $2,472 (-1.77%), with a market capitalisation of $301.7B and dominance of 11.3%.</p>
+    <p>Bitcoin traded at $78,136 over the past 24 hours (-1.84%), with a market capitalisation of $1.57T and dominance of 58.6% of the total market.</p>
+    <p>Ether traded at $2,472 (-1.76%), with a market capitalisation of $301.7B and dominance of 11.3%.</p>
     <p>Broader sentiment, as measured by the Crypto Fear &amp; Greed Index, reads 69 (Greed).</p>
     <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
     <p class="source">Original write-up by Quartzline.</p>
