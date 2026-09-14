@@ -1,0 +1,17 @@
+{
+  "id": "learn-hash-rate",
+  "title": "What Hash Rate Tells You About a Proof-of-Work Network",
+  "date": "2026-09-12",
+  "angle": "learn",
+  "summary": "Hash rate measures how much computing power is being spent every second trying to produce the next block on a proof-of-work network such as Bitcoin. It is usually quoted in enormous units — today's networks are measured in exahashes, a billion billion attempts per second.",
+  "blocks": [
+    "Hash rate measures how much computing power is being spent every second trying to produce the next block on a proof-of-work network such as Bitcoin. It is usually quoted in enormous units — today's networks are measured in exahashes, a billion billion attempts per second.",
+    "A higher hash rate makes rewriting history more expensive: an attacker would need to outwork the honest majority of all that machinery. That is why hash rate is often read as a rough gauge of network security and of how much miners are willing to invest in it.",
+    "Hash rate is not price and does not move in lockstep with it. It tends to follow mining economics — hardware efficiency, electricity costs and block rewards — and the network's difficulty adjusts periodically so blocks keep arriving at roughly the intended pace regardless."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-hash-rate"
+}

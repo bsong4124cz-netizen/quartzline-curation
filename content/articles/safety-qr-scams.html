@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>A QR Code Is Just a Link You Can&#x27;t Read</title>
+<style>
+  :root { color-scheme: light dark;
+    --bg:#fff; --fg:#1c1c1e; --muted:#6b6b70; --rule:rgba(120,120,128,.22); }
+  @media (prefers-color-scheme: dark) { :root {
+    --bg:#131316; --fg:#e7e7ea; --muted:#9a9aa2; --rule:rgba(140,140,150,.26); } }
+  * { box-sizing:border-box; }
+  body { margin:0; color:var(--fg); background:var(--bg);
+    font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  .webnav { position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:.4rem;
+    padding:calc(env(safe-area-inset-top) + .55rem) .8rem .55rem; background:color-mix(in srgb, var(--bg) 78%, transparent);
+    backdrop-filter:saturate(180%) blur(14px); border-bottom:1px solid var(--rule); }
+  .webnav .back { display:inline-flex; align-items:center; gap:.3rem; min-height:44px;
+    background:none; border:none; color:var(--fg); cursor:pointer;
+    padding:.4rem .8rem .4rem .5rem; margin-left:-.5rem;
+    -webkit-tap-highlight-color:transparent; }
+  .webnav .chev { font-size:1.7rem; line-height:1; }
+  .webnav .navtitle { font-size:1rem; font-weight:600; }
+  .has-native-nav .webnav { display:none; }
+  main { max-width:42rem; margin:0 auto; padding:1.5rem 1.5rem 5rem; }
+  h1 { font-size:1.6rem; letter-spacing:-.02em; margin:0 0 .3rem; }
+  .date { color:var(--muted); font-size:.9rem; margin:0 0 2rem; }
+  p { margin:0 0 1rem; }
+  .disclaimer { margin-top:2.5rem; padding-top:1.25rem; border-top:1px solid var(--rule);
+    color:var(--muted); font-size:.85rem; }
+  .source { color:var(--muted); font-size:.8rem; margin-top:1rem; }
+  .note { color:var(--muted); font-size:.8rem; margin-top:.6rem; font-style:italic; }
+</style>
+</head>
+<body>
+  <header class="webnav">
+    <button class="back" onclick="qzBack()" aria-label="Back">
+      <span class="chev">‹</span>
+      <span class="navtitle">Quartzline</span>
+    </button>
+  </header>
+  <main>
+    <h1>A QR Code Is Just a Link You Can&#x27;t Read</h1>
+    <p class="date">2026-09-12</p>
+    <p>A QR code is a link or an address printed as a pattern — and unlike text, you cannot read it before opening it. Scammers exploit that by pasting their own stickers over legitimate codes on posters and terminals, or by circulating codes that encode their wallet address instead of the intended one.</p>
+    <p>In crypto the stakes are higher than a bad web link: a swapped code can silently change the deposit address you are paying, and a confirmed transfer cannot be reversed.</p>
+    <p>Treat a scanned result exactly like a pasted address: check the full address or domain that appears after scanning, prefer codes shown inside the official app of the person or service you are paying, and be wary of printed codes in public places or codes sent by strangers.</p>
+    <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
+    <p class="source">Original write-up by Quartzline.</p>
+    <p class="note">For reference only — not investment or trading advice.</p>
+  </main>
+
+<script>
+  function qzBack() {
+    try { window.webkit.messageHandlers.webInfoback.postMessage('back'); }
+    catch (e) { history.back(); }
+  }
+  window.hideWebNav = function () {
+    document.documentElement.classList.add('has-native-nav');
+  };
+</script>
+
+</body>
+</html>

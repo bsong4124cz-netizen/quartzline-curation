@@ -1,0 +1,17 @@
+{
+  "id": "safety-browser-extensions",
+  "title": "Browser Extensions Can Read What Your Wallet Sees",
+  "date": "2026-09-11",
+  "angle": "safety",
+  "summary": "A browser extension with broad permissions can read and change what you see on the pages you visit. A malicious one can swap the destination address on a transfer page, alter a payment request, or capture what you type into a web wallet.",
+  "blocks": [
+    "A browser extension with broad permissions can read and change what you see on the pages you visit. A malicious one can swap the destination address on a transfer page, alter a payment request, or capture what you type into a web wallet.",
+    "Risky extensions rarely announce themselves. Some start honest and turn harmful after being sold to a new owner and silently updated; others imitate a well-known tool with a near-identical name and icon.",
+    "Keep the browser you use for wallets and exchanges as bare as possible: install only extensions you truly need, from verified publishers, and review their permissions from time to time. A separate browser profile with no extensions at all is a simple, strong habit for anything involving funds."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-browser-extensions"
+}

@@ -1,17 +1,94 @@
 {
   "schema": 1,
-  "updated": "2026-09-10T09:13:12Z",
+  "updated": "2026-09-14T02:09:23Z",
   "articles": [
     {
-      "id": "safety-seed-phrase-theft",
-      "title": "No One Legitimate Ever Needs Your Seed Phrase",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "The most direct crypto theft is simply getting you to reveal your recovery (seed) phrase. Once someone has it, they can recreate your wallet and move everything.",
+      "id": "2026-09-14-majors",
+      "title": "Bitcoin & Ether Snapshot — 2026-09-14",
+      "date": "2026-09-14",
+      "angle": "majors",
+      "summary": "Bitcoin traded at $77,014 over the past 24 hours (-0.33%), with a market capitalisation of $1.55T and dominance of 58.9% of the total market.",
       "hasNav": true,
       "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-seed-phrase-theft",
-      "publishedAt": "2026-09-07T09:44:57Z"
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-14-majors",
+      "publishedAt": "2026-09-14T01:45:08Z"
+    },
+    {
+      "id": "2026-09-14-recap",
+      "title": "Market Recap — 2026-09-14",
+      "date": "2026-09-14",
+      "angle": "recap",
+      "summary": "The total crypto market edged lower over the past 24 hours, with combined market capitalisation at $2.63T (-4.04% on the day).",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-14-recap",
+      "publishedAt": "2026-09-13T23:59:08Z"
+    },
+    {
+      "id": "learn-slippage",
+      "title": "Slippage and Spread: Why Your Fill Differs from the Quote",
+      "date": "2026-09-13",
+      "angle": "learn",
+      "summary": "The price shown on a screen is usually the last trade or a mid-point. Actually trading crosses the spread — the gap between the highest standing bid and the lowest standing offer — so the executed price sits a little worse than the quote even in a calm market.",
+      "hasNav": true,
+      "isHot": false,
+      "publishedAt": "2026-09-13T11:17:26Z",
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-slippage"
+    },
+    {
+      "id": "safety-deepfake-endorsements",
+      "title": "Deepfaked Endorsements: When the Famous Face Is Not Real",
+      "date": "2026-09-13",
+      "angle": "safety",
+      "summary": "AI tools can now produce convincing video and audio of well-known people saying things they never said. Scammers use this to fabricate interviews and live streams in which a famous founder or celebrity appears to promote a giveaway or a trading platform.",
+      "hasNav": true,
+      "isHot": false,
+      "publishedAt": "2026-09-13T02:58:52Z",
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-deepfake-endorsements"
+    },
+    {
+      "id": "safety-qr-scams",
+      "title": "A QR Code Is Just a Link You Can't Read",
+      "date": "2026-09-12",
+      "angle": "safety",
+      "summary": "A QR code is a link or an address printed as a pattern — and unlike text, you cannot read it before opening it. Scammers exploit that by pasting their own stickers over legitimate codes on posters and terminals, or by circulating codes that encode their wallet address instead of the intended one.",
+      "hasNav": true,
+      "isHot": false,
+      "publishedAt": "2026-09-12T10:41:19Z",
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-qr-scams"
+    },
+    {
+      "id": "learn-hash-rate",
+      "title": "What Hash Rate Tells You About a Proof-of-Work Network",
+      "date": "2026-09-12",
+      "angle": "learn",
+      "summary": "Hash rate measures how much computing power is being spent every second trying to produce the next block on a proof-of-work network such as Bitcoin. It is usually quoted in enormous units — today's networks are measured in exahashes, a billion billion attempts per second.",
+      "hasNav": true,
+      "isHot": false,
+      "publishedAt": "2026-09-12T03:12:45Z",
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-hash-rate"
+    },
+    {
+      "id": "learn-order-types",
+      "title": "Market Orders vs Limit Orders, in Plain Terms",
+      "date": "2026-09-11",
+      "angle": "learn",
+      "summary": "Exchanges generally offer two basic ways to trade. A market order executes immediately at the best prices currently available. A limit order instead states a price, and waits: it only fills at that price or better, and may not fill at all.",
+      "hasNav": true,
+      "isHot": false,
+      "publishedAt": "2026-09-11T09:24:08Z",
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-order-types"
+    },
+    {
+      "id": "safety-browser-extensions",
+      "title": "Browser Extensions Can Read What Your Wallet Sees",
+      "date": "2026-09-11",
+      "angle": "safety",
+      "summary": "A browser extension with broad permissions can read and change what you see on the pages you visit. A malicious one can swap the destination address on a transfer page, alter a payment request, or capture what you type into a web wallet.",
+      "hasNav": true,
+      "isHot": false,
+      "publishedAt": "2026-09-11T02:47:33Z",
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-browser-extensions"
     },
     {
       "id": "2026-09-10-majors",
@@ -91,17 +168,6 @@
       "publishedAt": "2026-09-09T02:22:40Z"
     },
     {
-      "id": "2026-09-10-movers",
-      "title": "Top Movers — 2026-09-10",
-      "date": "2026-09-10",
-      "angle": "movers",
-      "summary": "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
-      "hasNav": false,
-      "isHot": true,
-      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers",
-      "publishedAt": "2026-09-09T02:12:57Z"
-    },
-    {
       "id": "learn-price-differences",
       "title": "Why the Same Coin Shows Different Prices",
       "date": "2026-09-10",
@@ -144,6 +210,17 @@
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/safety-fake-airdrops",
       "publishedAt": "2026-09-08T23:37:05Z"
+    },
+    {
+      "id": "2026-09-10-movers",
+      "title": "Top Movers — 2026-09-10",
+      "date": "2026-09-10",
+      "angle": "movers",
+      "summary": "The following moves are measured over the past 24 hours among the 50 largest crypto assets by market capitalisation.",
+      "hasNav": false,
+      "isHot": true,
+      "url": "https://quartzline-curation.pages.dev/content/articles/2026-09-10-movers",
+      "publishedAt": "2026-09-08T23:22:49Z"
     },
     {
       "id": "safety-fake-support",
@@ -298,6 +375,17 @@
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-tvl",
       "publishedAt": "2026-09-07T11:06:08Z"
+    },
+    {
+      "id": "safety-seed-phrase-theft",
+      "title": "No One Legitimate Ever Needs Your Seed Phrase",
+      "date": "2026-09-10",
+      "angle": "safety",
+      "summary": "The most direct crypto theft is simply getting you to reveal your recovery (seed) phrase. Once someone has it, they can recreate your wallet and move everything.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-seed-phrase-theft",
+      "publishedAt": "2026-09-07T09:44:57Z"
     },
     {
       "id": "learn-nft",
@@ -573,83 +661,6 @@
       "isHot": false,
       "url": "https://quartzline-curation.pages.dev/content/articles/learn-supply-types",
       "publishedAt": "2026-09-04T13:26:19Z"
-    },
-    {
-      "id": "learn-bridges",
-      "title": "What a Blockchain Bridge Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A bridge lets assets or information move between two separate blockchains that cannot talk to each other directly.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-bridges",
-      "publishedAt": "2026-09-04T12:27:08Z"
-    },
-    {
-      "id": "safety-pump-and-dump",
-      "title": "How Pump-and-Dump Groups Work",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "A pump-and-dump group coordinates to buy a small, low-volume coin at once, creating a sudden spike that draws in outsiders — who become the exit liquidity.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-pump-and-dump",
-      "publishedAt": "2026-09-04T08:14:42Z"
-    },
-    {
-      "id": "learn-stablecoins",
-      "title": "What a Stablecoin Is",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A stablecoin is a token designed to hold a steady value, usually pegged to a currency such as the US dollar. It aims to combine the stability of the reference currency with the portability of crypto.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-stablecoins",
-      "publishedAt": "2026-09-04T06:04:44Z"
-    },
-    {
-      "id": "learn-sparkline",
-      "title": "What a Sparkline Shows",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "A sparkline is the tiny chart you see next to a coin in a list. It has no axes or numbers — it is there to show the shape of recent movement at a glance.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-sparkline",
-      "publishedAt": "2026-09-03T19:39:38Z"
-    },
-    {
-      "id": "safety-address-poisoning",
-      "title": "Address Poisoning: Check the Whole Address",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning",
-      "publishedAt": "2026-09-03T18:47:56Z"
-    },
-    {
-      "id": "safety-phishing-links",
-      "title": "How to Spot a Phishing Link",
-      "date": "2026-09-10",
-      "angle": "safety",
-      "summary": "Phishing links imitate a real service to trick you into entering credentials or approving a transaction. The address often looks almost right — a swapped letter, an extra word, or a lookalike domain ending.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/safety-phishing-links",
-      "publishedAt": "2026-09-03T18:01:40Z"
-    },
-    {
-      "id": "learn-custody",
-      "title": "Custodial vs Non-Custodial Wallets",
-      "date": "2026-09-10",
-      "angle": "learn",
-      "summary": "In a custodial wallet, a company holds the keys on your behalf — much like a bank. In a non-custodial (self-custody) wallet, you hold the keys yourself.",
-      "hasNav": true,
-      "isHot": false,
-      "url": "https://quartzline-curation.pages.dev/content/articles/learn-custody",
-      "publishedAt": "2026-09-03T14:14:47Z"
     }
   ]
 }

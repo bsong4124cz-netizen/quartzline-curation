@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bitcoin &amp; Ether Snapshot — 2026-09-14</title>
+<style>
+  :root { color-scheme: light dark;
+    --bg:#fff; --fg:#1c1c1e; --muted:#6b6b70; --rule:rgba(120,120,128,.22); }
+  @media (prefers-color-scheme: dark) { :root {
+    --bg:#131316; --fg:#e7e7ea; --muted:#9a9aa2; --rule:rgba(140,140,150,.26); } }
+  * { box-sizing:border-box; }
+  body { margin:0; color:var(--fg); background:var(--bg);
+    font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  .webnav { position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:.4rem;
+    padding:calc(env(safe-area-inset-top) + .55rem) .8rem .55rem; background:color-mix(in srgb, var(--bg) 78%, transparent);
+    backdrop-filter:saturate(180%) blur(14px); border-bottom:1px solid var(--rule); }
+  .webnav .back { display:inline-flex; align-items:center; gap:.3rem; min-height:44px;
+    background:none; border:none; color:var(--fg); cursor:pointer;
+    padding:.4rem .8rem .4rem .5rem; margin-left:-.5rem;
+    -webkit-tap-highlight-color:transparent; }
+  .webnav .chev { font-size:1.7rem; line-height:1; }
+  .webnav .navtitle { font-size:1rem; font-weight:600; }
+  .has-native-nav .webnav { display:none; }
+  main { max-width:42rem; margin:0 auto; padding:1.5rem 1.5rem 5rem; }
+  h1 { font-size:1.6rem; letter-spacing:-.02em; margin:0 0 .3rem; }
+  .date { color:var(--muted); font-size:.9rem; margin:0 0 2rem; }
+  p { margin:0 0 1rem; }
+  .disclaimer { margin-top:2.5rem; padding-top:1.25rem; border-top:1px solid var(--rule);
+    color:var(--muted); font-size:.85rem; }
+  .source { color:var(--muted); font-size:.8rem; margin-top:1rem; }
+  .note { color:var(--muted); font-size:.8rem; margin-top:.6rem; font-style:italic; }
+</style>
+</head>
+<body>
+  <header class="webnav">
+    <button class="back" onclick="qzBack()" aria-label="Back">
+      <span class="chev">‹</span>
+      <span class="navtitle">Quartzline</span>
+    </button>
+  </header>
+  <main>
+    <h1>Bitcoin &amp; Ether Snapshot — 2026-09-14</h1>
+    <p class="date">2026-09-14</p>
+    <p>Bitcoin traded at $77,014 over the past 24 hours (-0.33%), with a market capitalisation of $1.55T and dominance of 58.9% of the total market.</p>
+    <p>Ether traded at $2,490 (-1.30%), with a market capitalisation of $303.9B and dominance of 11.6%.</p>
+    <p>Broader sentiment, as measured by the Crypto Fear &amp; Greed Index, reads 57 (Greed).</p>
+    <p class="disclaimer">This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.</p>
+    <p class="source">Data: CoinGecko, Alternative.me. Original analysis by Quartzline.</p>
+    <p class="note">For reference only — not investment or trading advice.</p>
+  </main>
+
+<script>
+  function qzBack() {
+    try { window.webkit.messageHandlers.webInfoback.postMessage('back'); }
+    catch (e) { history.back(); }
+  }
+  window.hideWebNav = function () {
+    document.documentElement.classList.add('has-native-nav');
+  };
+</script>
+
+</body>
+</html>

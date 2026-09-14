@@ -1,0 +1,17 @@
+{
+  "id": "learn-order-types",
+  "title": "Market Orders vs Limit Orders, in Plain Terms",
+  "date": "2026-09-11",
+  "angle": "learn",
+  "summary": "Exchanges generally offer two basic ways to trade. A market order executes immediately at the best prices currently available. A limit order instead states a price, and waits: it only fills at that price or better, and may not fill at all.",
+  "blocks": [
+    "Exchanges generally offer two basic ways to trade. A market order executes immediately at the best prices currently available. A limit order instead states a price, and waits: it only fills at that price or better, and may not fill at all.",
+    "The trade-off is speed versus certainty of price. A market order is certain to execute but not certain what it will pay, especially in a fast or thin market. A limit order caps the price but accepts the risk of missing execution entirely if the market never reaches it.",
+    "Order books pair these constantly: resting limit orders form the book, and incoming market orders consume them. Understanding which kind an app sends on your behalf explains why a fill sometimes lands away from the last price shown on the chart."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-order-types"
+}

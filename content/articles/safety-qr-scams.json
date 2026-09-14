@@ -1,0 +1,17 @@
+{
+  "id": "safety-qr-scams",
+  "title": "A QR Code Is Just a Link You Can't Read",
+  "date": "2026-09-12",
+  "angle": "safety",
+  "summary": "A QR code is a link or an address printed as a pattern — and unlike text, you cannot read it before opening it. Scammers exploit that by pasting their own stickers over legitimate codes on posters and terminals, or by circulating codes that encode their wallet address instead of the intended one.",
+  "blocks": [
+    "A QR code is a link or an address printed as a pattern — and unlike text, you cannot read it before opening it. Scammers exploit that by pasting their own stickers over legitimate codes on posters and terminals, or by circulating codes that encode their wallet address instead of the intended one.",
+    "In crypto the stakes are higher than a bad web link: a swapped code can silently change the deposit address you are paying, and a confirmed transfer cannot be reversed.",
+    "Treat a scanned result exactly like a pasted address: check the full address or domain that appears after scanning, prefer codes shown inside the official app of the person or service you are paying, and be wary of printed codes in public places or codes sent by strangers."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/safety-qr-scams"
+}

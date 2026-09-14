@@ -1,0 +1,17 @@
+{
+  "id": "learn-slippage",
+  "title": "Slippage and Spread: Why Your Fill Differs from the Quote",
+  "date": "2026-09-13",
+  "angle": "learn",
+  "summary": "The price shown on a screen is usually the last trade or a mid-point. Actually trading crosses the spread — the gap between the highest standing bid and the lowest standing offer — so the executed price sits a little worse than the quote even in a calm market.",
+  "blocks": [
+    "The price shown on a screen is usually the last trade or a mid-point. Actually trading crosses the spread — the gap between the highest standing bid and the lowest standing offer — so the executed price sits a little worse than the quote even in a calm market.",
+    "Slippage is the additional difference that appears when an order is large relative to what is resting in the book, or when prices move in the moment between placing and execution. Bigger orders and thinner markets produce more of it.",
+    "This is why the same asset can fill at noticeably different prices on different venues at the same moment, and why many platforms offer a slippage tolerance setting that cancels a swap if the achievable price drifts too far from the one displayed."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-slippage"
+}
