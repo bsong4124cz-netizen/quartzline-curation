@@ -8,9 +8,9 @@
       "date": "2026-09-15",
       "angle": "safety",
       "summary": "Address poisoning is a scam that targets copy-and-paste habits. An attacker creates a wallet address whose first and last few characters match one you have recently transacted with, then sends you a tiny or zero-value transfer from it so the lookalike shows up in your history.",
-      "hasNav": false,
-      "isHot": true,
-      "url": "https://www.baidu.com",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning",
       "publishedAt": "2026-09-15T02:17:01Z"
     },
     {
