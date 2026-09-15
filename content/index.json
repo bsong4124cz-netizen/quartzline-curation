@@ -1,7 +1,29 @@
 {
   "schema": 1,
-  "updated": "2026-09-14T02:09:23Z",
+  "updated": "2026-09-15T02:19:01Z",
   "articles": [
+    {
+      "id": "safety-address-poisoning",
+      "title": "Address Poisoning: The Lookalike Address in Your History",
+      "date": "2026-09-15",
+      "angle": "safety",
+      "summary": "Address poisoning is a scam that targets copy-and-paste habits. An attacker creates a wallet address whose first and last few characters match one you have recently transacted with, then sends you a tiny or zero-value transfer from it so the lookalike shows up in your history.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/safety-address-poisoning",
+      "publishedAt": "2026-09-15T02:17:01Z"
+    },
+    {
+      "id": "learn-token-unlocks",
+      "title": "Token Unlocks: Why a Token's Supply Can Grow on a Schedule",
+      "date": "2026-09-15",
+      "angle": "learn",
+      "summary": "Many tokens do not put their whole supply into circulation at launch. Allocations for the team, early backers, the treasury and ecosystem funds are often locked and released over months or years under a vesting schedule set out in the project's documents or smart contracts.",
+      "hasNav": true,
+      "isHot": false,
+      "url": "https://quartzline-curation.pages.dev/content/articles/learn-token-unlocks",
+      "publishedAt": "2026-09-15T01:49:01Z"
+    },
     {
       "id": "2026-09-14-majors",
       "title": "Bitcoin & Ether Snapshot — 2026-09-14",

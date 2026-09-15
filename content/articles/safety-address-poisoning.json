@@ -1,13 +1,14 @@
 {
   "id": "safety-address-poisoning",
-  "title": "Address Poisoning: Check the Whole Address",
-  "date": "2026-09-10",
+  "title": "Address Poisoning: The Lookalike Address in Your History",
+  "date": "2026-09-15",
   "angle": "safety",
-  "summary": "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
+  "summary": "Address poisoning is a scam that targets copy-and-paste habits. An attacker creates a wallet address whose first and last few characters match one you have recently transacted with, then sends you a tiny or zero-value transfer from it so the lookalike shows up in your history.",
   "blocks": [
-    "Address poisoning seeds your transaction history with an address that looks like one you use — matching first and last characters — hoping you copy it from history next time.",
-    "If you paste the lookalike, your funds go to the attacker. The trick relies on people checking only the beginning and end of an address.",
-    "Verify the full address, not just the ends, and prefer saved contacts or a scanned QR from the real recipient over copying from your transaction list."
+    "Address poisoning is a scam that targets copy-and-paste habits. An attacker creates a wallet address whose first and last few characters match one you have recently transacted with, then sends you a tiny or zero-value transfer from it so the lookalike shows up in your history.",
+    "The trap springs later. When you go to pay a familiar recipient, you copy what looks like their address from your recent transactions — but it is the attacker's lookalike, and a transfer on a blockchain generally cannot be reversed.",
+    "Most wallets and explorers shorten addresses to their opening and closing characters, which is exactly the part the attacker has matched. Unexpected dust or zero-value transfers from an unknown address are a common sign your wallet has been targeted.",
+    "Safer habits: save trusted recipients in your wallet's address book and send from there, check the full address rather than just its ends, and use a small test transfer before sending a larger amount to a new recipient. Never copy a destination from your transaction history."
   ],
   "hasNav": true,
   "isHot": false,

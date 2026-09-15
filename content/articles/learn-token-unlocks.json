@@ -1,0 +1,18 @@
+{
+  "id": "learn-token-unlocks",
+  "title": "Token Unlocks: Why a Token's Supply Can Grow on a Schedule",
+  "date": "2026-09-15",
+  "angle": "learn",
+  "summary": "Many tokens do not put their whole supply into circulation at launch. Allocations for the team, early backers, the treasury and ecosystem funds are often locked and released over months or years under a vesting schedule set out in the project's documents or smart contracts.",
+  "blocks": [
+    "Many tokens do not put their whole supply into circulation at launch. Allocations for the team, early backers, the treasury and ecosystem funds are often locked and released over months or years under a vesting schedule set out in the project's documents or smart contracts.",
+    "An unlock is the moment a tranche of that locked supply becomes transferable. Some schedules release a large block at once after an initial waiting period, known as a cliff; others release smaller amounts continuously, usually called linear vesting.",
+    "This is why circulating supply and fully diluted supply can differ so much. Market capitalisation reflects only the tokens circulating today, while the fully diluted figure counts every token that will eventually exist, including those still locked.",
+    "Unlock calendars are generally public, and trackers compile them from project disclosures. An unlock does not by itself determine what a price does — recipients may hold, stake or move their tokens — but the schedule explains why the number of tokens in circulation changes over time."
+  ],
+  "hasNav": true,
+  "isHot": false,
+  "disclaimer": "This article is generated automatically from public market data and is provided for information only. It is not financial, investment or trading advice, contains no recommendation to buy or sell any asset, and makes no prediction of future prices. Figures may be delayed or inaccurate. Always do your own research.",
+  "source": "Original write-up by Quartzline.",
+  "url": "https://quartzline-curation.pages.dev/content/articles/learn-token-unlocks"
+}
